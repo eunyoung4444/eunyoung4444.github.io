@@ -7,19 +7,47 @@
   <title>Low Lit Test</title>
   <meta name="description" content="Remove difficult words!">
   <meta name="author" content="EYKO">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
   <link rel="stylesheet" href="css/index.css">
   <link rel="stylesheet" type="text/css" href="semantic/dist/semantic.min.css">
-<script
+
+	<script
   src="https://code.jquery.com/jquery-3.1.1.min.js"
   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
   crossorigin="anonymous"></script>
-<script src="semantic/dist/semantic.min.js"></script>
+	<script src="semantic/dist/semantic.min.js"></script>
+ <script src="js/index.js"></script>
 </head>
 
 <body>
-  <script src="js/index.js"></script>
-  <textarea name="paragraph_text" cols="100" rows="20"></textarea>
+<div class="ui page grid">
+<div class="row"> </div>
+<div class="row">
+	<div class="sixteen wide column">
+		<h1> Exercise </h1>
+	</div>
+</div>
+<div class="row">
+	<div class="seven wide column">
+		<div class="ui form">
+		<div class="field">
+			<textarea id="input_text"></textarea>
+			</div>
+		</div>
+	</div>
+	<div class="two wide middle aligned column">
+		<button class="ui fluid button" id="replace_button">Replace</button>
+	</div>
+	<div class="seven wide column">
+		<div class="ui form">
+		<div class="field">
+			<textarea id="output_text"></textarea>
+			</div>
+		</div>
+	</div>	
+</div>
 </body>
 </html>
 
