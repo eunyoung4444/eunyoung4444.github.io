@@ -1,1 +1,0 @@
-var inputtext=document.getElementByID("input_text")
