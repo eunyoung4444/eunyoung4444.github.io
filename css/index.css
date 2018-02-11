@@ -1,6 +1,34 @@
 
-  .aside{
-    position: fixed;
-    
+.crop{
+  margin-top:25px;
+  margin-bottom:25px;
+  width:25%!
+}
+.crop img {
+  width:200px;
+  height:200px;
+}
+#background{
+  max-width:1600px;
+}
+
+.title {
+  font-size: 12pt;
+  font-weight: 400;
+  clear: left;
+}
+.paper{
+  margin:20px;
+}
+
+.wip{
+  margin:20px;
+}
+
+@media (min-width: 992px){
+  #leftsidebar {
+      position: fixed;
+      top: 20px;
+      bottom: 0;
   }
-  
+}
