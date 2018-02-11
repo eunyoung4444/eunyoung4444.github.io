@@ -18,17 +18,43 @@
   clear: left;
 }
 .paper{
-  margin:20px;
+  margin-bottom:20px;
+  margin-top:10px;
+  margin-left:20px;
 }
 
 .wip{
   margin:20px;
 }
+.section{
+  margin-top:20px;
+  margin-bottom:50px;
+}
 
+.about{
+  font-size:12pt;
+}
 @media (min-width: 992px){
   #leftsidebar {
       position: fixed;
       top: 20px;
       bottom: 0;
   }
+}
+.subsection{
+  margin-left:20px !important;
+}
+
+.about{
+  margin-left:20px;
+  margin-right:20px;
+  font-size:12pt;
+}
+.info{
+  margin-top:10px;
+  font-size:12pt;
+}
+
+emph{
+  font-weight:500;
 }
