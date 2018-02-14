@@ -2,11 +2,10 @@
 .crop{
   margin-top:25px;
   margin-bottom:25px;
-  width:25%!
 }
 .crop img {
-  width:200px;
-  height:200px;
+  width:175px;
+  height:175px;
 }
 #background{
   max-width:1600px;
@@ -23,13 +22,27 @@
   margin-left:20px;
 }
 
+.background{
+  align-items: center!important;
+  max-width:1600px;
+}
+
+#leftbar{
+  padding:0;
+}
+#middlebar{
+  padding-left:25px;
+}
+
+.row{
+  margin:auto;
+}
 .wip{
   margin:20px;
 }
 .section{
   margin-top:20px;
   margin-bottom:50px;
-  max-width:800px;
 }
 
 .about{
@@ -55,6 +68,7 @@
 .info{
   margin-top:10px;
   font-size:12pt;
+  max-width:225px;
 }
 
 emph{
@@ -65,7 +79,7 @@ emph{
 
 h1{
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size:36px;
+  font-size:30px;
 }
 
 #cv{
@@ -75,7 +89,7 @@ h1{
 
 h3{
   margin-bottom:20px;
-  font-size:36px;
+  font-size:30px;
 }
 h4{
   font-weight:300;
@@ -90,5 +104,10 @@ h4{
 }
 
 award{
-  color: #ffb30fa4;
+  color: #ffa600e0;
+}
+
+#infos{
+  max-width:225px;
+  margin:auto;
 }
