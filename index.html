@@ -9,10 +9,8 @@
   <meta name="author" content="EYKO">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link href="assets/css/bootstrap-responsive.css" rel="stylesheet">
 
   <link rel="stylesheet" href="css/index.css">
-  <link rel="stylesheet" type="text/css" href="semantic/dist/semantic.min.css">
   <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
   <script
   src="https://code.jquery.com/jquery-3.1.1.min.js"
@@ -31,24 +29,29 @@
 			<div class="col-md-3">
 					<div id="leftsidebar">
 						<h1 id="eunyoungko">Eun-Young Ko</h1>
-						<div class="crop" id="profileholder"><center><img src="img/eunyoungko.jpg" alt="profilephoto" style="border-radius:5%;"></center></div>
-						<div class="info"></a></div>
+						<div class="crop" id="profileholder"><center><img src="img/eunyoungko.jpg" alt="profilephoto" style="border-radius:50%;"></center></div>
+						<div class="info"></div>
 						
-						<div class="info"><a href="resources/cv_eunyoungko.pdf">Curriculum Vitae (pdf)</a></div>
-						<div class="info"><emph>E-mail:</emph> <br> <a href="mailto:eunyoungko@kaist.ac.kr">eunyoungko@kaist.ac.kr</a></div>
-						<div class="info"><emph>Address:</emph> <br>N1 Room 624, KAIST <br> 
+						<div class="info"><a  id="cv" href="resources/cv_eunyoungko.pdf">Curriculum Vitae (pdf)</a></div>
+						<div class="info"><emph>Contact</emph>
+						<div class="subinfo">E-mail:<br><a href="mailto:eunyoungko@kaist.ac.kr">eunyoungko@kaist.ac.kr</a></div>
+						<div class="subinfo">Address:<br>N1 Room 624, KAIST <br> 
 								291 Daehak-ro, Yuseong-gu <br>
 								Daejeon, Korea 34141 <br>
-							</div>
+							</div></div>
+						
 					</div>
 				</div>
 				<div class="col-md-9 offset">
 					<div id="about" class="section">
 					<h3>About</h3>
 					<p class="about">
-					Hi! I am Eun-Young Ko, a Master's student in <a href="http://cs.kaist.ac.kr/">School of Computing</a> at <a href="http://www.kaist.ac.kr/">KAIST</a>. I am advised by <a href="http://juhokim.com">Juho Kim</a> and a member of <a href="http://kixlab.org/">KIXLAB</a>.</p> 
+					Hi! I am Eun-Young Ko, a Master's student in <a href="http://cs.kaist.ac.kr/">School of Computing</a> at <a href="http://www.kaist.ac.kr/">KAIST</a>, advised by <a href="http://juhokim.com">Juho Kim</a>. I am a member of <a href="http://kixlab.org/">KIXLAB</a> and <a href="http://hci.kaist.ac.kr">HCI@KAIST</a> group.</p> 
 					<p class="about">
-						My research interest lies in Computer-supported Cooperative Work (CSCW) and Social Computing, which are subfields of Human-Computer Interaction (HCI). 
+						My research area is Computer-supported Cooperative Work and Social Computing, which are subfields of Human-Computer Interaction. Specifically, I am interested in building system that support better communication between public and experts (e.g. government officials, scientists, or lawyers).
+					</p>
+					<p class="about">
+						I recieved B.A. in Mathematics (with minor in Economics and Financial Engineering) from KAIST and then I studied Economics in Seoul National University for two years. 
 					</p>
 				</div>					
 					<div id="publication" class="section">
@@ -59,19 +62,20 @@
 						<div class="title">Understanding the Effects of In-Video Prompting on Learners and Instructors</div>
 						<div class="author">Hyungyu Shin, <b>Eun-Young Ko</b>, Joseph Jay Williams, Juho Kim</div>
 						<div class="venue">CHI 2018 (to appear)</div>
-						<div class="otherinfo"></div>
+						<div class="otherinfo">[<a href="resources/papers/CHI2018-Prompting.pdf">pdf</a>][<a href="https://www.youtube.com/watch?v=BLiR8jL8abA">video</a>]</div>
 					</div>
 					<div class="paper">
 							<div class="title">BudgetMap: Engaging Taxpayers in the Issue-Driven Classification of a Government Budget</div>
 							<div class="author">Nam Wook Kim, Jonghyuk Jung, <b>Eun-Young Ko</b>, Songyi Han, Chang Won Lee, Juho Kim, Jihee Kim</div>
 							<div class="venue">CSCW 2016</div>
-							<div class="otherinfo"></div>
+							<div class="otherinfo">[<a href="resources/papers/CSCW2016-BudgetMap.pdf">pdf</a>][<a href="https://dl.acm.org/citation.cfm?id=2818048.2820004">acm dl</a>]
+					</div>
 					</div>
 					<div class="paper">
 							<div class="title">Factful: Engaging Taxpayers in the Public Discussion of a Government Budget</div>
 							<div class="author">Juho Kim, <b>Eun-Young Ko</b>, Jonghyuk Jung, Chang Won Lee, Nam Wook Kim, Jihee Kim</div>
-							<div class="venue">CHI 2015</div>
-							<div class="otherinfo"></div>
+							<div class="venue">CHI 2015 <award>Best of CHI Honorable Mention</award></div>
+							<div class="otherinfo">[<a href="resources/papers/CHI2015-Factful.pdf">pdf</a>][<a href="https://dl.acm.org/citation.cfm?id=2702352">acm dl</a>]</div>
 						</div>
 					</div>
 					<div class="subsection">
@@ -80,13 +84,13 @@
 							<div class="title">BudgetWiser: Gamification Design Opportunities in the Government Budget Domain</div>
 							<div class="author">Nam Wook Kim, Jihee Kim, Juho Kim, Chang Won Lee, <b>Eun-Young Ko</b>, Jonghyuk Jung</div>
 							<div class="venue">CHI 2015 Workshop on Researching Gamification</div>
-							<div class="otherinfo"></div>
+							<div class="otherinfo">[<a href="resources/papers/CHI2015-Workshop-BudgetWiser.pdf">pdf</a>]</div>
 						</div>
 						<div class="paper">
 								<div class="title">BudgetMap: Issue-Driven Navigation for a Government Budget</div>
 								<div class="author">Nam Wook Kim, Chang Won Lee, Jonghyuk Jung, <b>Eun-Young Ko</b>, Juho Kim, Jihee Kim</div>
 								<div class="venue">CHI 2015 Extended Abstracts</div>
-								<div class="otherinfo"></div>
+								<div class="otherinfo">[<a href="resources/papers/CHI2015-WIP-BudgetMap.pdf">pdf</a>][<a href="https://dl.acm.org/citation.cfm?id=2702613.2732932">acm dl</a>]</div>
 							</div>	
 						</div>
 					<div class="subsection">
@@ -95,7 +99,7 @@
 							<div class="title">Bond Spreads, Market Integration and Contagion in the 2007-2008 Crisis</div>
 							<div class="author">Jae-Young Kim, Dong-Hyun Ahn, <b>Eun-Young Ko</b></div>
 							<div class="venue">Seoul Journal of Economics 2017, Vol. 30, No. 1</div>
-							<div class="otherinfo"></div>
+							<div class="otherinfo">[<a href="resources/papers/SJE-BondSpread.pdf">pdf</a>][<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2925008">ssrn</a>]</div>
 					</div>
 				</div>
 				</div>
@@ -108,7 +112,7 @@
 						<div class="wipdetail"></div>
 					</div>
 					<div class="wip">
-							<div class="title">Tune-a-News: Encouraging Citizens to Express Informed Opinion on Election Promises Implementation</div>
+							<div class="title">Tunea News: Encouraging Citizens to Express Informed Opinion on Election Promises Implementation</div>
 							<div class="author">with Hyunwoo Kim, Hyungyu Shin, Paul Grau, Sungchul Lee, Dongkwan Kim, Jihee Kim, and Juho Kim</div>
 							<div class="wipdetail"></div>
 						</div>
