@@ -11,6 +11,9 @@
   max-width:1600px;
 }
 
+#homebtn{
+  background-color:transparent;
+}
 .title {
   font-size: 12pt;
   font-weight: 400;
