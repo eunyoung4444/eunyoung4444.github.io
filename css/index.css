@@ -13,6 +13,7 @@
 
 #homebtn{
   background-color:transparent;
+  padding: 0px;
 }
 .title {
   font-size: 12pt;
