@@ -1,0 +1,3333 @@
+state,year,tmax
+Alabama,1950,74.7
+Alabama,1951,76.1
+Alabama,1952,75.8
+Alabama,1953,76.1
+Alabama,1954,77.2
+Alabama,1955,75.7
+Alabama,1956,75.9
+Alabama,1957,75.0
+Alabama,1958,72.8
+Alabama,1959,74.4
+Alabama,1960,73.3
+Alabama,1961,73.7
+Alabama,1962,75.3
+Alabama,1963,74.2
+Alabama,1964,74.2
+Alabama,1965,74.8
+Alabama,1966,73.2
+Alabama,1967,73.9
+Alabama,1968,73.4
+Alabama,1969,73.3
+Alabama,1970,74.0
+Alabama,1971,74.4
+Alabama,1972,74.7
+Alabama,1973,74.5
+Alabama,1974,75.0
+Alabama,1975,74.1
+Alabama,1976,72.9
+Alabama,1977,74.4
+Alabama,1978,73.9
+Alabama,1979,72.7
+Alabama,1980,74.5
+Alabama,1981,74.3
+Alabama,1982,74.8
+Alabama,1983,72.5
+Alabama,1984,74.9
+Alabama,1985,74.1
+Alabama,1986,75.8
+Alabama,1987,75.1
+Alabama,1988,74.1
+Alabama,1989,73.3
+Alabama,1990,77.3
+Alabama,1991,74.9
+Alabama,1992,73.2
+Alabama,1993,73.8
+Alabama,1994,74.1
+Alabama,1995,74.6
+Alabama,1996,73.7
+Alabama,1997,73.5
+Alabama,1998,76.3
+Alabama,1999,76.4
+Alabama,2000,76.0
+Alabama,2001,74.6
+Alabama,2002,74.8
+Alabama,2003,73.8
+Alabama,2004,74.2
+Alabama,2005,74.9
+Alabama,2006,76.6
+Alabama,2007,76.8
+Alabama,2008,74.7
+Alabama,2009,73.8
+Alabama,2010,74.6
+Alabama,2011,76.0
+Alabama,2012,76.5
+Alabama,2013,73.3
+Alabama,2014,73.7
+Alabama,2015,75.4
+Alabama,2016,77.3
+Alabama,2017,76.2
+Arizona,1950,76.2
+Arizona,1951,73.2
+Arizona,1952,72.9
+Arizona,1953,74.4
+Arizona,1954,75.8
+Arizona,1955,73.1
+Arizona,1956,74.9
+Arizona,1957,72.7
+Arizona,1958,74.5
+Arizona,1959,74.5
+Arizona,1960,74.0
+Arizona,1961,73.5
+Arizona,1962,74.2
+Arizona,1963,74.2
+Arizona,1964,72.1
+Arizona,1965,72.3
+Arizona,1966,73.9
+Arizona,1967,73.5
+Arizona,1968,72.8
+Arizona,1969,73.6
+Arizona,1970,73.4
+Arizona,1971,72.6
+Arizona,1972,74.1
+Arizona,1973,72.6
+Arizona,1974,73.9
+Arizona,1975,72.5
+Arizona,1976,73.5
+Arizona,1977,74.5
+Arizona,1978,73.3
+Arizona,1979,73.2
+Arizona,1980,74.5
+Arizona,1981,75.4
+Arizona,1982,72.0
+Arizona,1983,72.3
+Arizona,1984,73.2
+Arizona,1985,73.4
+Arizona,1986,74.4
+Arizona,1987,73.2
+Arizona,1988,74.5
+Arizona,1989,76.3
+Arizona,1990,73.8
+Arizona,1991,73.1
+Arizona,1992,73.0
+Arizona,1993,73.7
+Arizona,1994,74.7
+Arizona,1995,75.2
+Arizona,1996,76.4
+Arizona,1997,74.5
+Arizona,1998,73.2
+Arizona,1999,75.7
+Arizona,2000,76.1
+Arizona,2001,75.5
+Arizona,2002,76.0
+Arizona,2003,76.2
+Arizona,2004,74.2
+Arizona,2005,75.1
+Arizona,2006,75.7
+Arizona,2007,75.9
+Arizona,2008,74.9
+Arizona,2009,75.5
+Arizona,2010,74.2
+Arizona,2011,74.7
+Arizona,2012,76.8
+Arizona,2013,74.6
+Arizona,2014,76.5
+Arizona,2015,75.5
+Arizona,2016,76.4
+Arizona,2017,77.5
+Arkansas,1950,70.7
+Arkansas,1951,71.6
+Arkansas,1952,73.5
+Arkansas,1953,74.4
+Arkansas,1954,75.4
+Arkansas,1955,72.5
+Arkansas,1956,73.6
+Arkansas,1957,70.9
+Arkansas,1958,69.4
+Arkansas,1959,71.1
+Arkansas,1960,69.9
+Arkansas,1961,70.2
+Arkansas,1962,71.4
+Arkansas,1963,72.7
+Arkansas,1964,72.5
+Arkansas,1965,72.4
+Arkansas,1966,70.5
+Arkansas,1967,71.3
+Arkansas,1968,69.6
+Arkansas,1969,70.9
+Arkansas,1970,70.8
+Arkansas,1971,71.9
+Arkansas,1972,71.2
+Arkansas,1973,71.0
+Arkansas,1974,71.0
+Arkansas,1975,70.8
+Arkansas,1976,70.6
+Arkansas,1977,72.1
+Arkansas,1978,70.2
+Arkansas,1979,68.8
+Arkansas,1980,72.3
+Arkansas,1981,71.5
+Arkansas,1982,70.8
+Arkansas,1983,69.6
+Arkansas,1984,71.1
+Arkansas,1985,70.7
+Arkansas,1986,72.5
+Arkansas,1987,72.6
+Arkansas,1988,71.7
+Arkansas,1989,69.9
+Arkansas,1990,73.2
+Arkansas,1991,71.7
+Arkansas,1992,70.5
+Arkansas,1993,69.9
+Arkansas,1994,71.1
+Arkansas,1995,71.7
+Arkansas,1996,70.4
+Arkansas,1997,70.4
+Arkansas,1998,73.6
+Arkansas,1999,73.9
+Arkansas,2000,72.0
+Arkansas,2001,72.2
+Arkansas,2002,71.1
+Arkansas,2003,71.0
+Arkansas,2004,71.4
+Arkansas,2005,73.3
+Arkansas,2006,73.6
+Arkansas,2007,72.6
+Arkansas,2008,70.8
+Arkansas,2009,70.1
+Arkansas,2010,72.3
+Arkansas,2011,73.1
+Arkansas,2012,75.2
+Arkansas,2013,70.2
+Arkansas,2014,69.2
+Arkansas,2015,71.9
+Arkansas,2016,73.5
+Arkansas,2017,73.3
+California,1950,70.9
+California,1951,69.9
+California,1952,69.1
+California,1953,70.0
+California,1954,70.4
+California,1955,69.0
+California,1956,70.1
+California,1957,69.0
+California,1958,71.3
+California,1959,72.3
+California,1960,70.8
+California,1961,70.5
+California,1962,70.1
+California,1963,69.0
+California,1964,69.2
+California,1965,68.8
+California,1966,70.7
+California,1967,69.8
+California,1968,70.0
+California,1969,69.7
+California,1970,70.3
+California,1971,68.6
+California,1972,69.6
+California,1973,69.4
+California,1974,70.2
+California,1975,68.7
+California,1976,70.5
+California,1977,70.6
+California,1978,69.6
+California,1979,70.1
+California,1980,70.5
+California,1981,71.6
+California,1982,67.9
+California,1983,68.6
+California,1984,70.4
+California,1985,69.9
+California,1986,71.2
+California,1987,70.8
+California,1988,71.7
+California,1989,71.1
+California,1990,70.9
+California,1991,70.8
+California,1992,71.5
+California,1993,69.8
+California,1994,70.6
+California,1995,71.0
+California,1996,71.9
+California,1997,71.5
+California,1998,68.2
+California,1999,70.8
+California,2000,71.2
+California,2001,71.7
+California,2002,72.0
+California,2003,71.8
+California,2004,71.4
+California,2005,70.8
+California,2006,71.3
+California,2007,72.0
+California,2008,71.9
+California,2009,71.7
+California,2010,69.8
+California,2011,70.0
+California,2012,72.5
+California,2013,72.6
+California,2014,74.2
+California,2015,73.4
+California,2016,72.5
+California,2017,72.7
+Colorado,1950,59.7
+Colorado,1951,57.1
+Colorado,1952,58.2
+Colorado,1953,59.5
+Colorado,1954,61.7
+Colorado,1955,58.3
+Colorado,1956,59.7
+Colorado,1957,56.8
+Colorado,1958,59.3
+Colorado,1959,58.6
+Colorado,1960,58.0
+Colorado,1961,57.3
+Colorado,1962,59.3
+Colorado,1963,60.3
+Colorado,1964,57.6
+Colorado,1965,57.4
+Colorado,1966,58.9
+Colorado,1967,58.5
+Colorado,1968,57.5
+Colorado,1969,57.7
+Colorado,1970,58.0
+Colorado,1971,57.7
+Colorado,1972,58.0
+Colorado,1973,56.6
+Colorado,1974,58.6
+Colorado,1975,57.5
+Colorado,1976,59.1
+Colorado,1977,60.3
+Colorado,1978,58.0
+Colorado,1979,57.1
+Colorado,1980,59.4
+Colorado,1981,60.8
+Colorado,1982,57.3
+Colorado,1983,57.1
+Colorado,1984,56.6
+Colorado,1985,57.3
+Colorado,1986,59.7
+Colorado,1987,58.9
+Colorado,1988,59.1
+Colorado,1989,59.5
+Colorado,1990,59.2
+Colorado,1991,58.6
+Colorado,1992,58.7
+Colorado,1993,57.0
+Colorado,1994,60.4
+Colorado,1995,59.2
+Colorado,1996,59.7
+Colorado,1997,58.1
+Colorado,1998,59.6
+Colorado,1999,60.7
+Colorado,2000,61.0
+Colorado,2001,60.8
+Colorado,2002,60.5
+Colorado,2003,61.0
+Colorado,2004,59.5
+Colorado,2005,60.6
+Colorado,2006,60.6
+Colorado,2007,60.0
+Colorado,2008,59.0
+Colorado,2009,58.8
+Colorado,2010,60.0
+Colorado,2011,59.5
+Colorado,2012,62.9
+Colorado,2013,58.9
+Colorado,2014,59.7
+Colorado,2015,60.8
+Colorado,2016,61.3
+Colorado,2017,61.7
+Connecticut,1950,58.0
+Connecticut,1951,59.2
+Connecticut,1952,59.4
+Connecticut,1953,61.1
+Connecticut,1954,58.8
+Connecticut,1955,58.8
+Connecticut,1956,57.6
+Connecticut,1957,60.0
+Connecticut,1958,56.2
+Connecticut,1959,59.5
+Connecticut,1960,58.4
+Connecticut,1961,58.4
+Connecticut,1962,57.3
+Connecticut,1963,58.1
+Connecticut,1964,59.0
+Connecticut,1965,58.1
+Connecticut,1966,58.6
+Connecticut,1967,57.1
+Connecticut,1968,58.2
+Connecticut,1969,57.8
+Connecticut,1970,57.8
+Connecticut,1971,58.4
+Connecticut,1972,57.0
+Connecticut,1973,60.2
+Connecticut,1974,58.5
+Connecticut,1975,58.9
+Connecticut,1976,58.2
+Connecticut,1977,58.3
+Connecticut,1978,57.1
+Connecticut,1979,58.4
+Connecticut,1980,58.5
+Connecticut,1981,58.6
+Connecticut,1982,58.5
+Connecticut,1983,59.6
+Connecticut,1984,59.0
+Connecticut,1985,58.9
+Connecticut,1986,58.7
+Connecticut,1987,59.2
+Connecticut,1988,58.9
+Connecticut,1989,58.2
+Connecticut,1990,61.2
+Connecticut,1991,61.5
+Connecticut,1992,57.6
+Connecticut,1993,59.0
+Connecticut,1994,59.4
+Connecticut,1995,59.3
+Connecticut,1996,58.1
+Connecticut,1997,58.8
+Connecticut,1998,61.6
+Connecticut,1999,61.5
+Connecticut,2000,58.6
+Connecticut,2001,60.9
+Connecticut,2002,60.7
+Connecticut,2003,57.9
+Connecticut,2004,58.6
+Connecticut,2005,59.8
+Connecticut,2006,61.1
+Connecticut,2007,59.8
+Connecticut,2008,59.9
+Connecticut,2009,58.5
+Connecticut,2010,61.2
+Connecticut,2011,60.7
+Connecticut,2012,62.2
+Connecticut,2013,59.6
+Connecticut,2014,58.6
+Connecticut,2015,60.4
+Connecticut,2016,62.2
+Connecticut,2017,60.6
+Delaware,1950,64.2
+Delaware,1951,65.2
+Delaware,1952,65.1
+Delaware,1953,66.5
+Delaware,1954,65.7
+Delaware,1955,64.7
+Delaware,1956,64.1
+Delaware,1957,65.2
+Delaware,1958,61.9
+Delaware,1959,66.1
+Delaware,1960,63.5
+Delaware,1961,63.8
+Delaware,1962,62.8
+Delaware,1963,63.8
+Delaware,1964,64.9
+Delaware,1965,64.0
+Delaware,1966,63.6
+Delaware,1967,62.9
+Delaware,1968,64.4
+Delaware,1969,63.1
+Delaware,1970,63.9
+Delaware,1971,64.3
+Delaware,1972,62.9
+Delaware,1973,65.4
+Delaware,1974,65.0
+Delaware,1975,64.9
+Delaware,1976,64.4
+Delaware,1977,64.8
+Delaware,1978,62.9
+Delaware,1979,63.4
+Delaware,1980,64.0
+Delaware,1981,63.5
+Delaware,1982,64.0
+Delaware,1983,64.8
+Delaware,1984,64.4
+Delaware,1985,65.4
+Delaware,1986,65.2
+Delaware,1987,65.0
+Delaware,1988,64.5
+Delaware,1989,63.6
+Delaware,1990,67.4
+Delaware,1991,67.2
+Delaware,1992,63.5
+Delaware,1993,64.7
+Delaware,1994,65.4
+Delaware,1995,65.1
+Delaware,1996,63.5
+Delaware,1997,64.9
+Delaware,1998,67.5
+Delaware,1999,66.9
+Delaware,2000,64.8
+Delaware,2001,66.5
+Delaware,2002,67.4
+Delaware,2003,64.0
+Delaware,2004,65.3
+Delaware,2005,65.5
+Delaware,2006,67.4
+Delaware,2007,66.4
+Delaware,2008,66.6
+Delaware,2009,64.8
+Delaware,2010,66.5
+Delaware,2011,67.4
+Delaware,2012,68.6
+Delaware,2013,65.2
+Delaware,2014,64.5
+Delaware,2015,66.2
+Delaware,2016,67.2
+Delaware,2017,66.9
+Florida,1950,81.4
+Florida,1951,81.5
+Florida,1952,81.2
+Florida,1953,81.2
+Florida,1954,81.3
+Florida,1955,81.4
+Florida,1956,81.2
+Florida,1957,81.3
+Florida,1958,79.2
+Florida,1959,80.5
+Florida,1960,80.0
+Florida,1961,81.2
+Florida,1962,81.0
+Florida,1963,80.2
+Florida,1964,80.4
+Florida,1965,80.8
+Florida,1966,79.3
+Florida,1967,81.4
+Florida,1968,79.9
+Florida,1969,79.4
+Florida,1970,80.3
+Florida,1971,81.6
+Florida,1972,81.6
+Florida,1973,80.9
+Florida,1974,82.0
+Florida,1975,82.0
+Florida,1976,80.0
+Florida,1977,80.6
+Florida,1978,80.5
+Florida,1979,80.5
+Florida,1980,80.8
+Florida,1981,81.0
+Florida,1982,81.9
+Florida,1983,79.6
+Florida,1984,80.8
+Florida,1985,81.6
+Florida,1986,82.1
+Florida,1987,80.8
+Florida,1988,80.6
+Florida,1989,81.9
+Florida,1990,83.6
+Florida,1991,81.9
+Florida,1992,80.6
+Florida,1993,81.0
+Florida,1994,81.5
+Florida,1995,81.2
+Florida,1996,80.7
+Florida,1997,81.6
+Florida,1998,82.8
+Florida,1999,82.1
+Florida,2000,82.1
+Florida,2001,81.7
+Florida,2002,81.8
+Florida,2003,81.2
+Florida,2004,81.4
+Florida,2005,81.0
+Florida,2006,82.4
+Florida,2007,82.4
+Florida,2008,81.4
+Florida,2009,81.7
+Florida,2010,80.1
+Florida,2011,82.8
+Florida,2012,82.4
+Florida,2013,81.8
+Florida,2014,81.1
+Florida,2015,83.2
+Florida,2016,82.8
+Florida,2017,82.9
+Georgia,1950,75.1
+Georgia,1951,75.9
+Georgia,1952,76.0
+Georgia,1953,75.7
+Georgia,1954,76.9
+Georgia,1955,75.6
+Georgia,1956,76.0
+Georgia,1957,75.2
+Georgia,1958,73.5
+Georgia,1959,74.8
+Georgia,1960,73.9
+Georgia,1961,74.6
+Georgia,1962,75.2
+Georgia,1963,74.1
+Georgia,1964,74.0
+Georgia,1965,74.8
+Georgia,1966,73.1
+Georgia,1967,74.6
+Georgia,1968,74.0
+Georgia,1969,73.3
+Georgia,1970,74.7
+Georgia,1971,74.9
+Georgia,1972,75.0
+Georgia,1973,74.8
+Georgia,1974,75.8
+Georgia,1975,75.1
+Georgia,1976,73.6
+Georgia,1977,74.9
+Georgia,1978,74.5
+Georgia,1979,73.7
+Georgia,1980,74.8
+Georgia,1981,74.7
+Georgia,1982,75.2
+Georgia,1983,73.4
+Georgia,1984,75.4
+Georgia,1985,75.1
+Georgia,1986,76.7
+Georgia,1987,75.0
+Georgia,1988,74.5
+Georgia,1989,74.5
+Georgia,1990,78.0
+Georgia,1991,75.4
+Georgia,1992,73.7
+Georgia,1993,74.8
+Georgia,1994,74.6
+Georgia,1995,74.9
+Georgia,1996,74.4
+Georgia,1997,74.4
+Georgia,1998,76.9
+Georgia,1999,76.6
+Georgia,2000,75.6
+Georgia,2001,75.9
+Georgia,2002,75.8
+Georgia,2003,74.3
+Georgia,2004,75.1
+Georgia,2005,74.9
+Georgia,2006,76.8
+Georgia,2007,77.0
+Georgia,2008,75.3
+Georgia,2009,74.3
+Georgia,2010,74.8
+Georgia,2011,76.9
+Georgia,2012,77.1
+Georgia,2013,74.1
+Georgia,2014,74.6
+Georgia,2015,76.0
+Georgia,2016,77.7
+Georgia,2017,77.2
+Idaho,1950,53.6
+Idaho,1951,53.0
+Idaho,1952,54.6
+Idaho,1953,56.2
+Idaho,1954,55.5
+Idaho,1955,51.9
+Idaho,1956,54.0
+Idaho,1957,53.8
+Idaho,1958,56.4
+Idaho,1959,54.5
+Idaho,1960,54.4
+Idaho,1961,55.2
+Idaho,1962,54.3
+Idaho,1963,55.0
+Idaho,1964,52.2
+Idaho,1965,53.9
+Idaho,1966,55.8
+Idaho,1967,55.1
+Idaho,1968,53.7
+Idaho,1969,54.8
+Idaho,1970,53.8
+Idaho,1971,52.9
+Idaho,1972,53.4
+Idaho,1973,54.3
+Idaho,1974,55.0
+Idaho,1975,52.0
+Idaho,1976,54.3
+Idaho,1977,54.8
+Idaho,1978,53.7
+Idaho,1979,54.6
+Idaho,1980,54.4
+Idaho,1981,56.0
+Idaho,1982,51.9
+Idaho,1983,53.5
+Idaho,1984,51.6
+Idaho,1985,51.7
+Idaho,1986,55.7
+Idaho,1987,57.1
+Idaho,1988,56.5
+Idaho,1989,54.5
+Idaho,1990,55.5
+Idaho,1991,54.9
+Idaho,1992,57.1
+Idaho,1993,52.2
+Idaho,1994,56.4
+Idaho,1995,54.9
+Idaho,1996,54.8
+Idaho,1997,54.7
+Idaho,1998,55.5
+Idaho,1999,55.7
+Idaho,2000,55.8
+Idaho,2001,56.5
+Idaho,2002,55.0
+Idaho,2003,57.3
+Idaho,2004,55.6
+Idaho,2005,55.5
+Idaho,2006,56.3
+Idaho,2007,57.1
+Idaho,2008,54.7
+Idaho,2009,54.6
+Idaho,2010,54.7
+Idaho,2011,54.0
+Idaho,2012,57.3
+Idaho,2013,55.8
+Idaho,2014,56.8
+Idaho,2015,58.3
+Idaho,2016,56.8
+Idaho,2017,55.8
+Illinois,1950,60.1
+Illinois,1951,60.0
+Illinois,1952,63.6
+Illinois,1953,65.1
+Illinois,1954,64.5
+Illinois,1955,63.3
+Illinois,1956,63.7
+Illinois,1957,61.8
+Illinois,1958,60.2
+Illinois,1959,62.1
+Illinois,1960,60.4
+Illinois,1961,61.4
+Illinois,1962,61.3
+Illinois,1963,62.0
+Illinois,1964,63.5
+Illinois,1965,62.3
+Illinois,1966,61.2
+Illinois,1967,60.7
+Illinois,1968,61.4
+Illinois,1969,60.3
+Illinois,1970,61.2
+Illinois,1971,62.8
+Illinois,1972,60.2
+Illinois,1973,62.4
+Illinois,1974,61.4
+Illinois,1975,61.8
+Illinois,1976,61.8
+Illinois,1977,61.8
+Illinois,1978,59.7
+Illinois,1979,59.7
+Illinois,1980,61.6
+Illinois,1981,62.0
+Illinois,1982,60.7
+Illinois,1983,61.7
+Illinois,1984,61.7
+Illinois,1985,60.8
+Illinois,1986,62.8
+Illinois,1987,64.6
+Illinois,1988,63.7
+Illinois,1989,60.8
+Illinois,1990,63.8
+Illinois,1991,63.8
+Illinois,1992,61.7
+Illinois,1993,60.0
+Illinois,1994,62.4
+Illinois,1995,61.8
+Illinois,1996,60.2
+Illinois,1997,60.7
+Illinois,1998,64.6
+Illinois,1999,64.3
+Illinois,2000,62.4
+Illinois,2001,63.7
+Illinois,2002,63.4
+Illinois,2003,62.1
+Illinois,2004,62.6
+Illinois,2005,64.0
+Illinois,2006,64.1
+Illinois,2007,64.1
+Illinois,2008,61.1
+Illinois,2009,61.1
+Illinois,2010,63.1
+Illinois,2011,62.9
+Illinois,2012,66.8
+Illinois,2013,61.1
+Illinois,2014,59.5
+Illinois,2015,62.9
+Illinois,2016,64.5
+Illinois,2017,64.8
+Indiana,1950,60.4
+Indiana,1951,60.9
+Indiana,1952,63.6
+Indiana,1953,65.0
+Indiana,1954,64.1
+Indiana,1955,63.2
+Indiana,1956,63.0
+Indiana,1957,61.9
+Indiana,1958,59.7
+Indiana,1959,62.6
+Indiana,1960,60.4
+Indiana,1961,61.2
+Indiana,1962,61.1
+Indiana,1963,61.5
+Indiana,1964,63.4
+Indiana,1965,62.1
+Indiana,1966,60.9
+Indiana,1967,60.7
+Indiana,1968,61.0
+Indiana,1969,60.3
+Indiana,1970,61.3
+Indiana,1971,62.1
+Indiana,1972,60.0
+Indiana,1973,62.6
+Indiana,1974,61.2
+Indiana,1975,61.8
+Indiana,1976,61.3
+Indiana,1977,61.4
+Indiana,1978,59.4
+Indiana,1979,59.4
+Indiana,1980,60.8
+Indiana,1981,61.0
+Indiana,1982,61.0
+Indiana,1983,61.9
+Indiana,1984,61.2
+Indiana,1985,61.1
+Indiana,1986,62.2
+Indiana,1987,63.7
+Indiana,1988,62.7
+Indiana,1989,60.3
+Indiana,1990,63.5
+Indiana,1991,63.7
+Indiana,1992,60.9
+Indiana,1993,60.1
+Indiana,1994,62.0
+Indiana,1995,61.8
+Indiana,1996,60.0
+Indiana,1997,60.3
+Indiana,1998,64.8
+Indiana,1999,64.3
+Indiana,2000,61.9
+Indiana,2001,63.4
+Indiana,2002,63.2
+Indiana,2003,61.2
+Indiana,2004,62.2
+Indiana,2005,63.0
+Indiana,2006,63.3
+Indiana,2007,63.8
+Indiana,2008,61.4
+Indiana,2009,61.1
+Indiana,2010,63.1
+Indiana,2011,62.8
+Indiana,2012,66.2
+Indiana,2013,61.1
+Indiana,2014,59.5
+Indiana,2015,62.5
+Indiana,2016,64.3
+Indiana,2017,64.2
+Iowa,1950,56.1
+Iowa,1951,54.4
+Iowa,1952,58.9
+Iowa,1953,60.5
+Iowa,1954,60.1
+Iowa,1955,59.6
+Iowa,1956,59.9
+Iowa,1957,57.9
+Iowa,1958,57.9
+Iowa,1959,57.3
+Iowa,1960,56.7
+Iowa,1961,57.3
+Iowa,1962,56.9
+Iowa,1963,58.8
+Iowa,1964,59.8
+Iowa,1965,57.3
+Iowa,1966,57.7
+Iowa,1967,57.8
+Iowa,1968,58.6
+Iowa,1969,56.3
+Iowa,1970,57.6
+Iowa,1971,58.2
+Iowa,1972,55.7
+Iowa,1973,58.4
+Iowa,1974,58.2
+Iowa,1975,57.8
+Iowa,1976,59.4
+Iowa,1977,59.2
+Iowa,1978,55.9
+Iowa,1979,55.7
+Iowa,1980,58.9
+Iowa,1981,60.0
+Iowa,1982,56.1
+Iowa,1983,57.2
+Iowa,1984,58.1
+Iowa,1985,56.5
+Iowa,1986,58.5
+Iowa,1987,61.9
+Iowa,1988,60.8
+Iowa,1989,57.9
+Iowa,1990,60.1
+Iowa,1991,58.8
+Iowa,1992,57.7
+Iowa,1993,54.8
+Iowa,1994,58.1
+Iowa,1995,57.1
+Iowa,1996,55.3
+Iowa,1997,57.1
+Iowa,1998,60.3
+Iowa,1999,60.3
+Iowa,2000,59.3
+Iowa,2001,59.3
+Iowa,2002,59.9
+Iowa,2003,58.9
+Iowa,2004,58.9
+Iowa,2005,60.1
+Iowa,2006,60.8
+Iowa,2007,59.0
+Iowa,2008,56.1
+Iowa,2009,56.9
+Iowa,2010,58.4
+Iowa,2011,58.6
+Iowa,2012,63.6
+Iowa,2013,56.9
+Iowa,2014,55.7
+Iowa,2015,59.4
+Iowa,2016,60.6
+Iowa,2017,60.3
+Kansas,1950,66.6
+Kansas,1951,64.2
+Kansas,1952,68.1
+Kansas,1953,69.5
+Kansas,1954,70.8
+Kansas,1955,67.7
+Kansas,1956,69.8
+Kansas,1957,65.1
+Kansas,1958,64.9
+Kansas,1959,66.1
+Kansas,1960,64.6
+Kansas,1961,64.9
+Kansas,1962,66.7
+Kansas,1963,69.0
+Kansas,1964,68.0
+Kansas,1965,67.1
+Kansas,1966,66.6
+Kansas,1967,66.7
+Kansas,1968,66.2
+Kansas,1969,64.5
+Kansas,1970,67.0
+Kansas,1971,66.3
+Kansas,1972,65.4
+Kansas,1973,65.5
+Kansas,1974,67.0
+Kansas,1975,66.2
+Kansas,1976,67.9
+Kansas,1977,68.0
+Kansas,1978,65.2
+Kansas,1979,64.9
+Kansas,1980,68.0
+Kansas,1981,68.2
+Kansas,1982,65.4
+Kansas,1983,64.5
+Kansas,1984,66.2
+Kansas,1985,64.4
+Kansas,1986,68.6
+Kansas,1987,67.5
+Kansas,1988,68.0
+Kansas,1989,66.3
+Kansas,1990,68.2
+Kansas,1991,68.3
+Kansas,1992,65.8
+Kansas,1993,63.1
+Kansas,1994,67.6
+Kansas,1995,66.4
+Kansas,1996,65.7
+Kansas,1997,65.6
+Kansas,1998,68.0
+Kansas,1999,68.6
+Kansas,2000,68.3
+Kansas,2001,68.4
+Kansas,2002,68.0
+Kansas,2003,67.6
+Kansas,2004,67.2
+Kansas,2005,68.2
+Kansas,2006,70.2
+Kansas,2007,66.9
+Kansas,2008,65.9
+Kansas,2009,65.9
+Kansas,2010,67.4
+Kansas,2011,68.3
+Kansas,2012,72.0
+Kansas,2013,66.3
+Kansas,2014,66.4
+Kansas,2015,68.7
+Kansas,2016,70.0
+Kansas,2017,69.3
+Kentucky,1950,65.4
+Kentucky,1951,66.5
+Kentucky,1952,68.4
+Kentucky,1953,69.6
+Kentucky,1954,68.7
+Kentucky,1955,67.5
+Kentucky,1956,67.4
+Kentucky,1957,67.1
+Kentucky,1958,64.1
+Kentucky,1959,67.2
+Kentucky,1960,64.7
+Kentucky,1961,65.5
+Kentucky,1962,65.8
+Kentucky,1963,66.0
+Kentucky,1964,67.8
+Kentucky,1965,67.1
+Kentucky,1966,64.9
+Kentucky,1967,65.7
+Kentucky,1968,65.3
+Kentucky,1969,65.0
+Kentucky,1970,66.1
+Kentucky,1971,66.6
+Kentucky,1972,65.3
+Kentucky,1973,66.9
+Kentucky,1974,66.1
+Kentucky,1975,66.4
+Kentucky,1976,65.1
+Kentucky,1977,65.9
+Kentucky,1978,64.2
+Kentucky,1979,64.0
+Kentucky,1980,65.8
+Kentucky,1981,65.4
+Kentucky,1982,66.3
+Kentucky,1983,65.9
+Kentucky,1984,66.1
+Kentucky,1985,65.5
+Kentucky,1986,67.4
+Kentucky,1987,68.0
+Kentucky,1988,67.0
+Kentucky,1989,65.1
+Kentucky,1990,68.6
+Kentucky,1991,68.0
+Kentucky,1992,65.5
+Kentucky,1993,65.6
+Kentucky,1994,66.7
+Kentucky,1995,66.5
+Kentucky,1996,65.1
+Kentucky,1997,65.2
+Kentucky,1998,68.8
+Kentucky,1999,69.4
+Kentucky,2000,66.8
+Kentucky,2001,68.0
+Kentucky,2002,67.6
+Kentucky,2003,65.6
+Kentucky,2004,67.0
+Kentucky,2005,67.8
+Kentucky,2006,67.8
+Kentucky,2007,69.4
+Kentucky,2008,66.7
+Kentucky,2009,65.8
+Kentucky,2010,67.1
+Kentucky,2011,67.5
+Kentucky,2012,70.0
+Kentucky,2013,65.5
+Kentucky,2014,65.3
+Kentucky,2015,67.4
+Kentucky,2016,69.0
+Kentucky,2017,68.7
+Louisiana,1950,77.6
+Louisiana,1951,78.5
+Louisiana,1952,78.0
+Louisiana,1953,78.4
+Louisiana,1954,79.5
+Louisiana,1955,78.0
+Louisiana,1956,78.7
+Louisiana,1957,77.1
+Louisiana,1958,75.2
+Louisiana,1959,76.3
+Louisiana,1960,76.0
+Louisiana,1961,75.7
+Louisiana,1962,77.8
+Louisiana,1963,77.6
+Louisiana,1964,76.8
+Louisiana,1965,77.7
+Louisiana,1966,75.5
+Louisiana,1967,76.9
+Louisiana,1968,75.2
+Louisiana,1969,76.6
+Louisiana,1970,76.0
+Louisiana,1971,77.3
+Louisiana,1972,77.2
+Louisiana,1973,76.5
+Louisiana,1974,77.0
+Louisiana,1975,76.6
+Louisiana,1976,75.8
+Louisiana,1977,76.9
+Louisiana,1978,76.0
+Louisiana,1979,75.1
+Louisiana,1980,77.2
+Louisiana,1981,77.1
+Louisiana,1982,77.3
+Louisiana,1983,74.8
+Louisiana,1984,76.9
+Louisiana,1985,76.7
+Louisiana,1986,77.7
+Louisiana,1987,77.1
+Louisiana,1988,76.6
+Louisiana,1989,75.7
+Louisiana,1990,78.7
+Louisiana,1991,76.6
+Louisiana,1992,76.0
+Louisiana,1993,76.0
+Louisiana,1994,76.5
+Louisiana,1995,77.5
+Louisiana,1996,76.7
+Louisiana,1997,76.1
+Louisiana,1998,78.7
+Louisiana,1999,79.3
+Louisiana,2000,78.4
+Louisiana,2001,77.1
+Louisiana,2002,76.7
+Louisiana,2003,76.8
+Louisiana,2004,77.2
+Louisiana,2005,78.4
+Louisiana,2006,78.9
+Louisiana,2007,77.7
+Louisiana,2008,77.4
+Louisiana,2009,77.0
+Louisiana,2010,77.3
+Louisiana,2011,79.0
+Louisiana,2012,79.2
+Louisiana,2013,76.5
+Louisiana,2014,75.4
+Louisiana,2015,78.2
+Louisiana,2016,78.8
+Louisiana,2017,78.6
+Maine,1950,51.3
+Maine,1951,51.6
+Maine,1952,52.4
+Maine,1953,53.8
+Maine,1954,50.3
+Maine,1955,50.7
+Maine,1956,49.9
+Maine,1957,52.0
+Maine,1958,49.5
+Maine,1959,51.1
+Maine,1960,51.8
+Maine,1961,50.9
+Maine,1962,49.3
+Maine,1963,50.4
+Maine,1964,50.8
+Maine,1965,49.7
+Maine,1966,51.3
+Maine,1967,49.7
+Maine,1968,50.1
+Maine,1969,50.7
+Maine,1970,50.2
+Maine,1971,50.7
+Maine,1972,48.8
+Maine,1973,51.7
+Maine,1974,49.6
+Maine,1975,51.3
+Maine,1976,50.0
+Maine,1977,50.4
+Maine,1978,50.1
+Maine,1979,51.2
+Maine,1980,49.7
+Maine,1981,51.5
+Maine,1982,50.5
+Maine,1983,52.0
+Maine,1984,51.6
+Maine,1985,50.5
+Maine,1986,50.6
+Maine,1987,51.4
+Maine,1988,51.3
+Maine,1989,50.0
+Maine,1990,52.5
+Maine,1991,52.3
+Maine,1992,50.0
+Maine,1993,50.7
+Maine,1994,50.8
+Maine,1995,51.4
+Maine,1996,50.6
+Maine,1997,50.0
+Maine,1998,53.3
+Maine,1999,54.2
+Maine,2000,50.9
+Maine,2001,53.5
+Maine,2002,51.8
+Maine,2003,50.7
+Maine,2004,50.6
+Maine,2005,51.9
+Maine,2006,53.5
+Maine,2007,51.1
+Maine,2008,51.7
+Maine,2009,50.9
+Maine,2010,54.0
+Maine,2011,52.6
+Maine,2012,53.9
+Maine,2013,51.8
+Maine,2014,51.2
+Maine,2015,51.6
+Maine,2016,53.4
+Maine,2017,52.4
+Maryland,1950,63.7
+Maryland,1951,64.8
+Maryland,1952,64.9
+Maryland,1953,66.5
+Maryland,1954,65.4
+Maryland,1955,64.5
+Maryland,1956,63.9
+Maryland,1957,64.8
+Maryland,1958,61.8
+Maryland,1959,65.8
+Maryland,1960,63.1
+Maryland,1961,63.6
+Maryland,1962,62.7
+Maryland,1963,63.6
+Maryland,1964,64.7
+Maryland,1965,64.1
+Maryland,1966,63.4
+Maryland,1967,62.9
+Maryland,1968,63.9
+Maryland,1969,62.9
+Maryland,1970,63.7
+Maryland,1971,64.0
+Maryland,1972,62.8
+Maryland,1973,64.9
+Maryland,1974,64.6
+Maryland,1975,64.3
+Maryland,1976,63.8
+Maryland,1977,64.3
+Maryland,1978,62.6
+Maryland,1979,62.8
+Maryland,1980,63.8
+Maryland,1981,63.3
+Maryland,1982,63.8
+Maryland,1983,64.3
+Maryland,1984,64.0
+Maryland,1985,65.0
+Maryland,1986,64.9
+Maryland,1987,65.1
+Maryland,1988,64.3
+Maryland,1989,63.2
+Maryland,1990,67.1
+Maryland,1991,67.1
+Maryland,1992,63.1
+Maryland,1993,64.2
+Maryland,1994,64.8
+Maryland,1995,64.5
+Maryland,1996,62.8
+Maryland,1997,64.4
+Maryland,1998,67.2
+Maryland,1999,66.4
+Maryland,2000,64.4
+Maryland,2001,66.0
+Maryland,2002,66.8
+Maryland,2003,63.3
+Maryland,2004,64.7
+Maryland,2005,65.2
+Maryland,2006,66.8
+Maryland,2007,66.0
+Maryland,2008,65.6
+Maryland,2009,64.2
+Maryland,2010,65.9
+Maryland,2011,66.4
+Maryland,2012,67.7
+Maryland,2013,64.3
+Maryland,2014,63.6
+Maryland,2015,65.5
+Maryland,2016,66.5
+Maryland,2017,66.4
+Massachusetts,1950,57.5
+Massachusetts,1951,58.2
+Massachusetts,1952,58.6
+Massachusetts,1953,60.2
+Massachusetts,1954,57.6
+Massachusetts,1955,57.6
+Massachusetts,1956,56.5
+Massachusetts,1957,59.2
+Massachusetts,1958,55.4
+Massachusetts,1959,58.2
+Massachusetts,1960,57.2
+Massachusetts,1961,57.0
+Massachusetts,1962,56.1
+Massachusetts,1963,57.2
+Massachusetts,1964,57.7
+Massachusetts,1965,57.0
+Massachusetts,1966,57.5
+Massachusetts,1967,56.0
+Massachusetts,1968,56.9
+Massachusetts,1969,57.0
+Massachusetts,1970,56.8
+Massachusetts,1971,57.4
+Massachusetts,1972,55.7
+Massachusetts,1973,59.0
+Massachusetts,1974,57.4
+Massachusetts,1975,58.0
+Massachusetts,1976,57.2
+Massachusetts,1977,57.2
+Massachusetts,1978,56.2
+Massachusetts,1979,57.5
+Massachusetts,1980,57.1
+Massachusetts,1981,57.5
+Massachusetts,1982,57.3
+Massachusetts,1983,58.6
+Massachusetts,1984,58.1
+Massachusetts,1985,57.6
+Massachusetts,1986,57.3
+Massachusetts,1987,57.8
+Massachusetts,1988,57.8
+Massachusetts,1989,56.9
+Massachusetts,1990,59.8
+Massachusetts,1991,60.1
+Massachusetts,1992,56.4
+Massachusetts,1993,57.7
+Massachusetts,1994,58.1
+Massachusetts,1995,58.0
+Massachusetts,1996,57.0
+Massachusetts,1997,57.4
+Massachusetts,1998,60.2
+Massachusetts,1999,60.4
+Massachusetts,2000,57.4
+Massachusetts,2001,59.7
+Massachusetts,2002,59.5
+Massachusetts,2003,56.8
+Massachusetts,2004,57.4
+Massachusetts,2005,58.5
+Massachusetts,2006,59.8
+Massachusetts,2007,58.5
+Massachusetts,2008,58.6
+Massachusetts,2009,57.4
+Massachusetts,2010,60.2
+Massachusetts,2011,59.5
+Massachusetts,2012,61.2
+Massachusetts,2013,58.8
+Massachusetts,2014,57.8
+Massachusetts,2015,59.2
+Massachusetts,2016,60.8
+Massachusetts,2017,59.3
+Michigan,1950,52.1
+Michigan,1951,52.5
+Michigan,1952,55.1
+Michigan,1953,56.2
+Michigan,1954,54.1
+Michigan,1955,55.6
+Michigan,1956,53.7
+Michigan,1957,53.8
+Michigan,1958,53.4
+Michigan,1959,53.8
+Michigan,1960,53.3
+Michigan,1961,54.2
+Michigan,1962,53.1
+Michigan,1963,53.9
+Michigan,1964,55.3
+Michigan,1965,52.9
+Michigan,1966,53.5
+Michigan,1967,52.7
+Michigan,1968,54.0
+Michigan,1969,53.4
+Michigan,1970,53.6
+Michigan,1971,54.3
+Michigan,1972,51.6
+Michigan,1973,55.1
+Michigan,1974,53.3
+Michigan,1975,54.5
+Michigan,1976,53.5
+Michigan,1977,54.2
+Michigan,1978,52.8
+Michigan,1979,52.2
+Michigan,1980,52.6
+Michigan,1981,54.0
+Michigan,1982,53.2
+Michigan,1983,54.3
+Michigan,1984,54.3
+Michigan,1985,53.2
+Michigan,1986,54.2
+Michigan,1987,56.9
+Michigan,1988,55.2
+Michigan,1989,53.0
+Michigan,1990,55.8
+Michigan,1991,55.9
+Michigan,1992,52.7
+Michigan,1993,52.8
+Michigan,1994,54.2
+Michigan,1995,53.9
+Michigan,1996,52.3
+Michigan,1997,53.2
+Michigan,1998,58.3
+Michigan,1999,56.8
+Michigan,2000,55.0
+Michigan,2001,56.5
+Michigan,2002,55.4
+Michigan,2003,54.2
+Michigan,2004,54.5
+Michigan,2005,56.2
+Michigan,2006,56.6
+Michigan,2007,56.2
+Michigan,2008,54.1
+Michigan,2009,53.7
+Michigan,2010,56.9
+Michigan,2011,55.3
+Michigan,2012,58.7
+Michigan,2013,53.7
+Michigan,2014,51.6
+Michigan,2015,55.2
+Michigan,2016,57.0
+Michigan,2017,55.8
+Minnesota,1950,47.3
+Minnesota,1951,47.2
+Minnesota,1952,52.2
+Minnesota,1953,52.4
+Minnesota,1954,51.0
+Minnesota,1955,51.3
+Minnesota,1956,50.9
+Minnesota,1957,50.7
+Minnesota,1958,51.9
+Minnesota,1959,51.0
+Minnesota,1960,50.8
+Minnesota,1961,52.0
+Minnesota,1962,50.0
+Minnesota,1963,52.2
+Minnesota,1964,52.1
+Minnesota,1965,48.6
+Minnesota,1966,49.4
+Minnesota,1967,50.1
+Minnesota,1968,51.1
+Minnesota,1969,49.9
+Minnesota,1970,49.9
+Minnesota,1971,50.4
+Minnesota,1972,48.0
+Minnesota,1973,52.4
+Minnesota,1974,50.9
+Minnesota,1975,50.7
+Minnesota,1976,52.8
+Minnesota,1977,51.7
+Minnesota,1978,50.0
+Minnesota,1979,48.1
+Minnesota,1980,51.9
+Minnesota,1981,53.2
+Minnesota,1982,49.3
+Minnesota,1983,50.9
+Minnesota,1984,51.7
+Minnesota,1985,49.4
+Minnesota,1986,51.8
+Minnesota,1987,56.1
+Minnesota,1988,53.2
+Minnesota,1989,50.6
+Minnesota,1990,53.8
+Minnesota,1991,52.2
+Minnesota,1992,50.7
+Minnesota,1993,48.9
+Minnesota,1994,51.3
+Minnesota,1995,50.3
+Minnesota,1996,48.0
+Minnesota,1997,50.7
+Minnesota,1998,54.8
+Minnesota,1999,54.1
+Minnesota,2000,52.4
+Minnesota,2001,53.4
+Minnesota,2002,52.1
+Minnesota,2003,52.4
+Minnesota,2004,51.7
+Minnesota,2005,53.3
+Minnesota,2006,54.7
+Minnesota,2007,52.8
+Minnesota,2008,50.1
+Minnesota,2009,50.3
+Minnesota,2010,53.2
+Minnesota,2011,52.3
+Minnesota,2012,56.1
+Minnesota,2013,49.5
+Minnesota,2014,48.7
+Minnesota,2015,53.8
+Minnesota,2016,54.2
+Minnesota,2017,52.8
+Mississippi,1950,75.0
+Mississippi,1951,76.6
+Mississippi,1952,76.6
+Mississippi,1953,76.9
+Mississippi,1954,77.9
+Mississippi,1955,76.1
+Mississippi,1956,76.6
+Mississippi,1957,74.9
+Mississippi,1958,72.8
+Mississippi,1959,74.7
+Mississippi,1960,73.7
+Mississippi,1961,73.9
+Mississippi,1962,75.6
+Mississippi,1963,75.1
+Mississippi,1964,74.9
+Mississippi,1965,75.6
+Mississippi,1966,73.6
+Mississippi,1967,74.4
+Mississippi,1968,73.2
+Mississippi,1969,74.0
+Mississippi,1970,74.1
+Mississippi,1971,75.0
+Mississippi,1972,75.1
+Mississippi,1973,74.9
+Mississippi,1974,74.9
+Mississippi,1975,74.3
+Mississippi,1976,73.6
+Mississippi,1977,74.9
+Mississippi,1978,74.0
+Mississippi,1979,72.6
+Mississippi,1980,74.7
+Mississippi,1981,75.0
+Mississippi,1982,74.8
+Mississippi,1983,72.6
+Mississippi,1984,74.7
+Mississippi,1985,74.1
+Mississippi,1986,75.9
+Mississippi,1987,75.4
+Mississippi,1988,74.6
+Mississippi,1989,73.3
+Mississippi,1990,77.0
+Mississippi,1991,74.8
+Mississippi,1992,73.8
+Mississippi,1993,73.6
+Mississippi,1994,74.3
+Mississippi,1995,75.0
+Mississippi,1996,74.3
+Mississippi,1997,73.7
+Mississippi,1998,76.7
+Mississippi,1999,77.1
+Mississippi,2000,76.3
+Mississippi,2001,75.1
+Mississippi,2002,74.8
+Mississippi,2003,74.3
+Mississippi,2004,74.8
+Mississippi,2005,75.7
+Mississippi,2006,76.8
+Mississippi,2007,76.7
+Mississippi,2008,74.8
+Mississippi,2009,74.4
+Mississippi,2010,75.3
+Mississippi,2011,76.1
+Mississippi,2012,77.1
+Mississippi,2013,73.9
+Mississippi,2014,73.6
+Mississippi,2015,76.0
+Mississippi,2016,77.4
+Mississippi,2017,76.7
+Missouri,1950,64.1
+Missouri,1951,63.4
+Missouri,1952,67.2
+Missouri,1953,68.9
+Missouri,1954,69.0
+Missouri,1955,66.6
+Missouri,1956,67.8
+Missouri,1957,65.1
+Missouri,1958,63.7
+Missouri,1959,65.4
+Missouri,1960,64.1
+Missouri,1961,64.2
+Missouri,1962,65.1
+Missouri,1963,66.4
+Missouri,1964,66.7
+Missouri,1965,66.2
+Missouri,1966,64.8
+Missouri,1967,64.9
+Missouri,1968,64.2
+Missouri,1969,64.1
+Missouri,1970,64.9
+Missouri,1971,66.1
+Missouri,1972,64.5
+Missouri,1973,65.4
+Missouri,1974,65.4
+Missouri,1975,65.5
+Missouri,1976,65.8
+Missouri,1977,65.6
+Missouri,1978,63.5
+Missouri,1979,63.2
+Missouri,1980,66.6
+Missouri,1981,65.9
+Missouri,1982,64.3
+Missouri,1983,64.5
+Missouri,1984,65.3
+Missouri,1985,63.5
+Missouri,1986,66.7
+Missouri,1987,67.4
+Missouri,1988,66.8
+Missouri,1989,64.5
+Missouri,1990,67.4
+Missouri,1991,67.0
+Missouri,1992,65.1
+Missouri,1993,62.9
+Missouri,1994,65.6
+Missouri,1995,65.1
+Missouri,1996,63.7
+Missouri,1997,64.1
+Missouri,1998,67.1
+Missouri,1999,67.7
+Missouri,2000,66.1
+Missouri,2001,66.6
+Missouri,2002,66.4
+Missouri,2003,65.4
+Missouri,2004,65.3
+Missouri,2005,67.1
+Missouri,2006,68.0
+Missouri,2007,67.0
+Missouri,2008,64.1
+Missouri,2009,64.2
+Missouri,2010,65.8
+Missouri,2011,66.3
+Missouri,2012,70.4
+Missouri,2013,64.2
+Missouri,2014,63.7
+Missouri,2015,66.3
+Missouri,2016,68.1
+Missouri,2017,68.2
+Montana,1950,49.8
+Montana,1951,49.1
+Montana,1952,53.9
+Montana,1953,55.8
+Montana,1954,53.6
+Montana,1955,50.7
+Montana,1956,53.4
+Montana,1957,52.3
+Montana,1958,54.6
+Montana,1959,52.0
+Montana,1960,53.6
+Montana,1961,55.1
+Montana,1962,53.4
+Montana,1963,55.1
+Montana,1964,52.5
+Montana,1965,51.3
+Montana,1966,53.5
+Montana,1967,53.4
+Montana,1968,52.5
+Montana,1969,52.2
+Montana,1970,52.1
+Montana,1971,52.3
+Montana,1972,51.3
+Montana,1973,54.1
+Montana,1974,54.6
+Montana,1975,50.6
+Montana,1976,55.2
+Montana,1977,53.7
+Montana,1978,50.3
+Montana,1979,52.7
+Montana,1980,54.3
+Montana,1981,56.3
+Montana,1982,50.6
+Montana,1983,53.6
+Montana,1984,53.5
+Montana,1985,51.1
+Montana,1986,54.6
+Montana,1987,57.3
+Montana,1988,57.2
+Montana,1989,52.7
+Montana,1990,55.5
+Montana,1991,54.9
+Montana,1992,55.9
+Montana,1993,51.1
+Montana,1994,55.2
+Montana,1995,53.6
+Montana,1996,51.1
+Montana,1997,54.1
+Montana,1998,55.7
+Montana,1999,56.3
+Montana,2000,54.9
+Montana,2001,56.2
+Montana,2002,53.6
+Montana,2003,55.6
+Montana,2004,54.8
+Montana,2005,55.3
+Montana,2006,56.7
+Montana,2007,56.4
+Montana,2008,53.9
+Montana,2009,53.4
+Montana,2010,53.3
+Montana,2011,53.3
+Montana,2012,57.2
+Montana,2013,54.3
+Montana,2014,53.8
+Montana,2015,57.4
+Montana,2016,56.6
+Montana,2017,55.4
+Nebraska,1950,59.7
+Nebraska,1951,57.8
+Nebraska,1952,61.8
+Nebraska,1953,63.2
+Nebraska,1954,63.9
+Nebraska,1955,61.3
+Nebraska,1956,62.8
+Nebraska,1957,59.8
+Nebraska,1958,60.2
+Nebraska,1959,60.7
+Nebraska,1960,59.5
+Nebraska,1961,60.4
+Nebraska,1962,60.8
+Nebraska,1963,63.0
+Nebraska,1964,61.9
+Nebraska,1965,60.4
+Nebraska,1966,60.5
+Nebraska,1967,61.1
+Nebraska,1968,61.0
+Nebraska,1969,59.1
+Nebraska,1970,61.5
+Nebraska,1971,60.4
+Nebraska,1972,59.6
+Nebraska,1973,60.4
+Nebraska,1974,62.6
+Nebraska,1975,60.3
+Nebraska,1976,62.4
+Nebraska,1977,62.3
+Nebraska,1978,58.6
+Nebraska,1979,58.9
+Nebraska,1980,62.6
+Nebraska,1981,63.4
+Nebraska,1982,59.2
+Nebraska,1983,59.3
+Nebraska,1984,60.1
+Nebraska,1985,59.1
+Nebraska,1986,62.5
+Nebraska,1987,63.5
+Nebraska,1988,63.1
+Nebraska,1989,61.5
+Nebraska,1990,63.0
+Nebraska,1991,62.7
+Nebraska,1992,61.0
+Nebraska,1993,57.3
+Nebraska,1994,61.9
+Nebraska,1995,60.8
+Nebraska,1996,58.8
+Nebraska,1997,60.8
+Nebraska,1998,62.4
+Nebraska,1999,63.9
+Nebraska,2000,62.9
+Nebraska,2001,62.6
+Nebraska,2002,63.1
+Nebraska,2003,62.6
+Nebraska,2004,62.4
+Nebraska,2005,63.4
+Nebraska,2006,64.3
+Nebraska,2007,62.2
+Nebraska,2008,60.2
+Nebraska,2009,59.8
+Nebraska,2010,61.4
+Nebraska,2011,61.2
+Nebraska,2012,67.0
+Nebraska,2013,60.9
+Nebraska,2014,60.8
+Nebraska,2015,63.4
+Nebraska,2016,64.3
+Nebraska,2017,63.4
+Nevada,1950,64.8
+Nevada,1951,63.0
+Nevada,1952,62.3
+Nevada,1953,64.2
+Nevada,1954,65.0
+Nevada,1955,61.7
+Nevada,1956,63.7
+Nevada,1957,62.2
+Nevada,1958,65.1
+Nevada,1959,64.8
+Nevada,1960,64.0
+Nevada,1961,63.6
+Nevada,1962,63.5
+Nevada,1963,63.3
+Nevada,1964,61.8
+Nevada,1965,61.8
+Nevada,1966,64.3
+Nevada,1967,62.8
+Nevada,1968,63.0
+Nevada,1969,62.9
+Nevada,1970,62.6
+Nevada,1971,61.5
+Nevada,1972,62.6
+Nevada,1973,62.2
+Nevada,1974,63.9
+Nevada,1975,61.3
+Nevada,1976,63.7
+Nevada,1977,64.2
+Nevada,1978,62.3
+Nevada,1979,63.1
+Nevada,1980,63.6
+Nevada,1981,65.4
+Nevada,1982,60.4
+Nevada,1983,61.2
+Nevada,1984,61.4
+Nevada,1985,62.2
+Nevada,1986,64.9
+Nevada,1987,63.8
+Nevada,1988,64.5
+Nevada,1989,64.2
+Nevada,1990,63.9
+Nevada,1991,63.2
+Nevada,1992,64.7
+Nevada,1993,61.7
+Nevada,1994,64.3
+Nevada,1995,64.2
+Nevada,1996,65.1
+Nevada,1997,63.9
+Nevada,1998,61.7
+Nevada,1999,64.8
+Nevada,2000,65.2
+Nevada,2001,65.4
+Nevada,2002,65.1
+Nevada,2003,65.8
+Nevada,2004,64.1
+Nevada,2005,63.8
+Nevada,2006,64.6
+Nevada,2007,65.8
+Nevada,2008,64.5
+Nevada,2009,64.2
+Nevada,2010,63.1
+Nevada,2011,63.3
+Nevada,2012,66.6
+Nevada,2013,64.4
+Nevada,2014,66.7
+Nevada,2015,66.3
+Nevada,2016,65.4
+Nevada,2017,65.6
+New Hampshire,1950,54.1
+New Hampshire,1951,54.0
+New Hampshire,1952,54.7
+New Hampshire,1953,56.7
+New Hampshire,1954,53.2
+New Hampshire,1955,53.9
+New Hampshire,1956,52.7
+New Hampshire,1957,55.3
+New Hampshire,1958,52.0
+New Hampshire,1959,54.3
+New Hampshire,1960,53.8
+New Hampshire,1961,53.9
+New Hampshire,1962,52.5
+New Hampshire,1963,53.7
+New Hampshire,1964,53.8
+New Hampshire,1965,52.9
+New Hampshire,1966,53.7
+New Hampshire,1967,52.7
+New Hampshire,1968,52.8
+New Hampshire,1969,53.4
+New Hampshire,1970,53.3
+New Hampshire,1971,53.6
+New Hampshire,1972,51.8
+New Hampshire,1973,54.8
+New Hampshire,1974,53.3
+New Hampshire,1975,54.3
+New Hampshire,1976,53.1
+New Hampshire,1977,53.5
+New Hampshire,1978,52.7
+New Hampshire,1979,53.7
+New Hampshire,1980,52.7
+New Hampshire,1981,53.9
+New Hampshire,1982,53.4
+New Hampshire,1983,54.7
+New Hampshire,1984,54.6
+New Hampshire,1985,53.5
+New Hampshire,1986,53.5
+New Hampshire,1987,54.0
+New Hampshire,1988,53.8
+New Hampshire,1989,52.8
+New Hampshire,1990,55.8
+New Hampshire,1991,55.7
+New Hampshire,1992,52.5
+New Hampshire,1993,53.8
+New Hampshire,1994,53.8
+New Hampshire,1995,54.1
+New Hampshire,1996,53.2
+New Hampshire,1997,53.0
+New Hampshire,1998,56.5
+New Hampshire,1999,56.6
+New Hampshire,2000,53.5
+New Hampshire,2001,56.1
+New Hampshire,2002,55.2
+New Hampshire,2003,53.2
+New Hampshire,2004,53.6
+New Hampshire,2005,54.7
+New Hampshire,2006,55.8
+New Hampshire,2007,53.9
+New Hampshire,2008,54.5
+New Hampshire,2009,53.6
+New Hampshire,2010,56.1
+New Hampshire,2011,55.4
+New Hampshire,2012,57.2
+New Hampshire,2013,54.8
+New Hampshire,2014,53.6
+New Hampshire,2015,55.0
+New Hampshire,2016,56.8
+New Hampshire,2017,55.3
+New Jersey,1950,61.1
+New Jersey,1951,62.5
+New Jersey,1952,62.6
+New Jersey,1953,64.2
+New Jersey,1954,62.8
+New Jersey,1955,62.4
+New Jersey,1956,61.2
+New Jersey,1957,62.8
+New Jersey,1958,59.6
+New Jersey,1959,63.2
+New Jersey,1960,61.2
+New Jersey,1961,61.4
+New Jersey,1962,60.5
+New Jersey,1963,61.4
+New Jersey,1964,62.5
+New Jersey,1965,61.5
+New Jersey,1966,61.5
+New Jersey,1967,60.5
+New Jersey,1968,61.7
+New Jersey,1969,61.0
+New Jersey,1970,61.3
+New Jersey,1971,61.7
+New Jersey,1972,60.6
+New Jersey,1973,63.4
+New Jersey,1974,62.3
+New Jersey,1975,62.4
+New Jersey,1976,61.7
+New Jersey,1977,62.0
+New Jersey,1978,60.3
+New Jersey,1979,61.2
+New Jersey,1980,62.0
+New Jersey,1981,61.6
+New Jersey,1982,61.6
+New Jersey,1983,62.8
+New Jersey,1984,62.1
+New Jersey,1985,62.7
+New Jersey,1986,62.4
+New Jersey,1987,62.5
+New Jersey,1988,62.2
+New Jersey,1989,61.2
+New Jersey,1990,64.7
+New Jersey,1991,65.0
+New Jersey,1992,61.0
+New Jersey,1993,62.3
+New Jersey,1994,62.8
+New Jersey,1995,62.6
+New Jersey,1996,61.2
+New Jersey,1997,62.4
+New Jersey,1998,65.2
+New Jersey,1999,64.6
+New Jersey,2000,62.2
+New Jersey,2001,64.2
+New Jersey,2002,64.7
+New Jersey,2003,61.2
+New Jersey,2004,62.5
+New Jersey,2005,63.5
+New Jersey,2006,65.1
+New Jersey,2007,63.6
+New Jersey,2008,64.0
+New Jersey,2009,62.2
+New Jersey,2010,64.7
+New Jersey,2011,64.7
+New Jersey,2012,65.7
+New Jersey,2013,62.8
+New Jersey,2014,62.0
+New Jersey,2015,64.1
+New Jersey,2016,65.4
+New Jersey,2017,64.4
+New Mexico,1950,70.8
+New Mexico,1951,68.6
+New Mexico,1952,67.9
+New Mexico,1953,69.2
+New Mexico,1954,70.6
+New Mexico,1955,67.9
+New Mexico,1956,69.8
+New Mexico,1957,67.0
+New Mexico,1958,67.7
+New Mexico,1959,68.4
+New Mexico,1960,67.3
+New Mexico,1961,67.1
+New Mexico,1962,68.5
+New Mexico,1963,69.0
+New Mexico,1964,67.0
+New Mexico,1965,67.4
+New Mexico,1966,67.8
+New Mexico,1967,68.2
+New Mexico,1968,66.8
+New Mexico,1969,67.7
+New Mexico,1970,67.5
+New Mexico,1971,67.4
+New Mexico,1972,68.1
+New Mexico,1973,66.6
+New Mexico,1974,67.9
+New Mexico,1975,66.7
+New Mexico,1976,67.3
+New Mexico,1977,68.8
+New Mexico,1978,67.6
+New Mexico,1979,66.8
+New Mexico,1980,68.9
+New Mexico,1981,69.3
+New Mexico,1982,66.9
+New Mexico,1983,66.7
+New Mexico,1984,66.8
+New Mexico,1985,67.4
+New Mexico,1986,67.8
+New Mexico,1987,66.7
+New Mexico,1988,67.7
+New Mexico,1989,69.8
+New Mexico,1990,68.0
+New Mexico,1991,66.9
+New Mexico,1992,67.1
+New Mexico,1993,68.0
+New Mexico,1994,69.7
+New Mexico,1995,69.5
+New Mexico,1996,70.0
+New Mexico,1997,67.3
+New Mexico,1998,69.2
+New Mexico,1999,70.0
+New Mexico,2000,70.5
+New Mexico,2001,69.6
+New Mexico,2002,69.7
+New Mexico,2003,70.9
+New Mexico,2004,67.9
+New Mexico,2005,69.5
+New Mexico,2006,70.0
+New Mexico,2007,69.1
+New Mexico,2008,69.1
+New Mexico,2009,69.6
+New Mexico,2010,69.1
+New Mexico,2011,70.3
+New Mexico,2012,71.8
+New Mexico,2013,68.7
+New Mexico,2014,69.8
+New Mexico,2015,69.2
+New Mexico,2016,70.6
+New Mexico,2017,71.6
+New York,1950,54.4
+New York,1951,55.0
+New York,1952,55.9
+New York,1953,57.4
+New York,1954,55.0
+New York,1955,55.7
+New York,1956,53.8
+New York,1957,55.7
+New York,1958,52.8
+New York,1959,55.6
+New York,1960,54.3
+New York,1961,54.6
+New York,1962,53.9
+New York,1963,54.1
+New York,1964,55.7
+New York,1965,53.9
+New York,1966,54.4
+New York,1967,53.6
+New York,1968,54.1
+New York,1969,54.0
+New York,1970,54.1
+New York,1971,54.4
+New York,1972,52.8
+New York,1973,56.2
+New York,1974,54.2
+New York,1975,55.3
+New York,1976,53.5
+New York,1977,54.3
+New York,1978,53.2
+New York,1979,54.3
+New York,1980,53.7
+New York,1981,54.4
+New York,1982,54.8
+New York,1983,55.5
+New York,1984,55.0
+New York,1985,54.6
+New York,1986,54.7
+New York,1987,55.6
+New York,1988,55.2
+New York,1989,53.9
+New York,1990,57.2
+New York,1991,57.4
+New York,1992,53.3
+New York,1993,54.3
+New York,1994,54.7
+New York,1995,55.3
+New York,1996,54.0
+New York,1997,54.3
+New York,1998,58.0
+New York,1999,57.4
+New York,2000,54.6
+New York,2001,57.1
+New York,2002,56.7
+New York,2003,54.4
+New York,2004,54.9
+New York,2005,56.4
+New York,2006,57.1
+New York,2007,55.8
+New York,2008,55.8
+New York,2009,54.9
+New York,2010,56.8
+New York,2011,56.8
+New York,2012,58.8
+New York,2013,55.4
+New York,2014,54.3
+New York,2015,56.2
+New York,2016,58.0
+New York,2017,56.6
+North Carolina,1950,69.9
+North Carolina,1951,70.6
+North Carolina,1952,71.0
+North Carolina,1953,71.9
+North Carolina,1954,71.4
+North Carolina,1955,70.1
+North Carolina,1956,70.4
+North Carolina,1957,70.2
+North Carolina,1958,67.7
+North Carolina,1959,70.2
+North Carolina,1960,68.4
+North Carolina,1961,69.2
+North Carolina,1962,68.7
+North Carolina,1963,68.5
+North Carolina,1964,69.4
+North Carolina,1965,69.6
+North Carolina,1966,68.1
+North Carolina,1967,68.7
+North Carolina,1968,69.0
+North Carolina,1969,67.9
+North Carolina,1970,70.0
+North Carolina,1971,69.5
+North Carolina,1972,69.0
+North Carolina,1973,70.1
+North Carolina,1974,70.3
+North Carolina,1975,70.5
+North Carolina,1976,69.3
+North Carolina,1977,69.7
+North Carolina,1978,68.7
+North Carolina,1979,68.7
+North Carolina,1980,69.4
+North Carolina,1981,68.9
+North Carolina,1982,69.3
+North Carolina,1983,69.0
+North Carolina,1984,69.8
+North Carolina,1985,70.3
+North Carolina,1986,70.9
+North Carolina,1987,69.7
+North Carolina,1988,69.0
+North Carolina,1989,68.8
+North Carolina,1990,72.7
+North Carolina,1991,71.1
+North Carolina,1992,68.8
+North Carolina,1993,69.8
+North Carolina,1994,70.2
+North Carolina,1995,69.3
+North Carolina,1996,68.6
+North Carolina,1997,69.4
+North Carolina,1998,71.8
+North Carolina,1999,71.2
+North Carolina,2000,69.8
+North Carolina,2001,71.1
+North Carolina,2002,71.1
+North Carolina,2003,69.2
+North Carolina,2004,69.9
+North Carolina,2005,70.3
+North Carolina,2006,71.3
+North Carolina,2007,72.4
+North Carolina,2008,70.7
+North Carolina,2009,69.4
+North Carolina,2010,70.2
+North Carolina,2011,71.8
+North Carolina,2012,71.8
+North Carolina,2013,68.9
+North Carolina,2014,69.2
+North Carolina,2015,71.0
+North Carolina,2016,71.7
+North Carolina,2017,71.9
+North Dakota,1950,46.0
+North Dakota,1951,46.7
+North Dakota,1952,52.9
+North Dakota,1953,53.6
+North Dakota,1954,52.0
+North Dakota,1955,50.8
+North Dakota,1956,50.9
+North Dakota,1957,51.2
+North Dakota,1958,52.9
+North Dakota,1959,51.1
+North Dakota,1960,51.7
+North Dakota,1961,53.6
+North Dakota,1962,51.2
+North Dakota,1963,54.3
+North Dakota,1964,51.8
+North Dakota,1965,48.9
+North Dakota,1966,49.7
+North Dakota,1967,51.4
+North Dakota,1968,50.9
+North Dakota,1969,50.0
+North Dakota,1970,49.9
+North Dakota,1971,50.4
+North Dakota,1972,48.6
+North Dakota,1973,53.2
+North Dakota,1974,51.8
+North Dakota,1975,50.4
+North Dakota,1976,54.1
+North Dakota,1977,52.6
+North Dakota,1978,49.6
+North Dakota,1979,48.7
+North Dakota,1980,53.4
+North Dakota,1981,55.2
+North Dakota,1982,49.0
+North Dakota,1983,51.8
+North Dakota,1984,52.4
+North Dakota,1985,50.0
+North Dakota,1986,52.7
+North Dakota,1987,56.6
+North Dakota,1988,55.4
+North Dakota,1989,51.6
+North Dakota,1990,55.2
+North Dakota,1991,53.7
+North Dakota,1992,52.6
+North Dakota,1993,49.3
+North Dakota,1994,51.3
+North Dakota,1995,50.2
+North Dakota,1996,47.4
+North Dakota,1997,52.0
+North Dakota,1998,53.8
+North Dakota,1999,54.1
+North Dakota,2000,52.6
+North Dakota,2001,53.7
+North Dakota,2002,52.3
+North Dakota,2003,52.5
+North Dakota,2004,52.0
+North Dakota,2005,53.6
+North Dakota,2006,55.7
+North Dakota,2007,53.4
+North Dakota,2008,51.4
+North Dakota,2009,49.3
+North Dakota,2010,51.4
+North Dakota,2011,51.3
+North Dakota,2012,56.2
+North Dakota,2013,49.6
+North Dakota,2014,50.0
+North Dakota,2015,55.1
+North Dakota,2016,55.4
+North Dakota,2017,53.5
+Ohio,1950,59.8
+Ohio,1951,60.9
+Ohio,1952,62.4
+Ohio,1953,63.7
+Ohio,1954,62.3
+Ohio,1955,62.2
+Ohio,1956,61.0
+Ohio,1957,61.2
+Ohio,1958,58.4
+Ohio,1959,62.2
+Ohio,1960,59.5
+Ohio,1961,60.3
+Ohio,1962,59.9
+Ohio,1963,60.1
+Ohio,1964,62.2
+Ohio,1965,61.0
+Ohio,1966,59.6
+Ohio,1967,59.9
+Ohio,1968,60.0
+Ohio,1969,59.6
+Ohio,1970,60.8
+Ohio,1971,61.1
+Ohio,1972,59.0
+Ohio,1973,61.9
+Ohio,1974,60.5
+Ohio,1975,61.0
+Ohio,1976,59.9
+Ohio,1977,60.5
+Ohio,1978,58.5
+Ohio,1979,58.8
+Ohio,1980,59.3
+Ohio,1981,59.6
+Ohio,1982,60.8
+Ohio,1983,61.2
+Ohio,1984,60.4
+Ohio,1985,60.6
+Ohio,1986,61.4
+Ohio,1987,62.6
+Ohio,1988,61.5
+Ohio,1989,59.3
+Ohio,1990,62.7
+Ohio,1991,63.3
+Ohio,1992,59.8
+Ohio,1993,60.1
+Ohio,1994,61.1
+Ohio,1995,60.5
+Ohio,1996,59.3
+Ohio,1997,59.8
+Ohio,1998,64.0
+Ohio,1999,63.5
+Ohio,2000,60.9
+Ohio,2001,62.5
+Ohio,2002,62.6
+Ohio,2003,59.9
+Ohio,2004,61.1
+Ohio,2005,61.8
+Ohio,2006,62.5
+Ohio,2007,62.6
+Ohio,2008,61.0
+Ohio,2009,60.6
+Ohio,2010,61.9
+Ohio,2011,61.9
+Ohio,2012,64.7
+Ohio,2013,60.5
+Ohio,2014,59.3
+Ohio,2015,61.9
+Ohio,2016,63.9
+Ohio,2017,63.3
+Oklahoma,1950,71.4
+Oklahoma,1951,71.6
+Oklahoma,1952,73.5
+Oklahoma,1953,73.9
+Oklahoma,1954,75.9
+Oklahoma,1955,72.8
+Oklahoma,1956,74.9
+Oklahoma,1957,70.0
+Oklahoma,1958,70.0
+Oklahoma,1959,70.9
+Oklahoma,1960,70.0
+Oklahoma,1961,70.0
+Oklahoma,1962,71.9
+Oklahoma,1963,73.9
+Oklahoma,1964,72.6
+Oklahoma,1965,72.6
+Oklahoma,1966,71.1
+Oklahoma,1967,72.0
+Oklahoma,1968,69.9
+Oklahoma,1969,70.8
+Oklahoma,1970,71.5
+Oklahoma,1971,71.6
+Oklahoma,1972,71.3
+Oklahoma,1973,70.3
+Oklahoma,1974,71.7
+Oklahoma,1975,70.6
+Oklahoma,1976,71.9
+Oklahoma,1977,73.0
+Oklahoma,1978,70.6
+Oklahoma,1979,69.3
+Oklahoma,1980,73.2
+Oklahoma,1981,72.4
+Oklahoma,1982,71.0
+Oklahoma,1983,69.4
+Oklahoma,1984,71.6
+Oklahoma,1985,70.3
+Oklahoma,1986,72.2
+Oklahoma,1987,71.2
+Oklahoma,1988,71.8
+Oklahoma,1989,70.2
+Oklahoma,1990,72.8
+Oklahoma,1991,71.9
+Oklahoma,1992,70.8
+Oklahoma,1993,69.5
+Oklahoma,1994,71.8
+Oklahoma,1995,71.5
+Oklahoma,1996,71.3
+Oklahoma,1997,70.1
+Oklahoma,1998,73.7
+Oklahoma,1999,73.7
+Oklahoma,2000,72.3
+Oklahoma,2001,72.5
+Oklahoma,2002,71.1
+Oklahoma,2003,72.0
+Oklahoma,2004,71.4
+Oklahoma,2005,73.0
+Oklahoma,2006,75.2
+Oklahoma,2007,71.0
+Oklahoma,2008,72.0
+Oklahoma,2009,71.4
+Oklahoma,2010,72.0
+Oklahoma,2011,74.7
+Oklahoma,2012,76.0
+Oklahoma,2013,70.8
+Oklahoma,2014,71.0
+Oklahoma,2015,72.4
+Oklahoma,2016,74.6
+Oklahoma,2017,74.0
+Oregon,1950,57.1
+Oregon,1951,57.7
+Oregon,1952,58.0
+Oregon,1953,58.3
+Oregon,1954,57.7
+Oregon,1955,55.7
+Oregon,1956,57.3
+Oregon,1957,56.9
+Oregon,1958,60.2
+Oregon,1959,58.4
+Oregon,1960,58.0
+Oregon,1961,58.9
+Oregon,1962,57.7
+Oregon,1963,57.9
+Oregon,1964,56.6
+Oregon,1965,58.3
+Oregon,1966,59.1
+Oregon,1967,59.4
+Oregon,1968,58.3
+Oregon,1969,57.8
+Oregon,1970,58.1
+Oregon,1971,56.7
+Oregon,1972,57.6
+Oregon,1973,58.4
+Oregon,1974,58.7
+Oregon,1975,56.4
+Oregon,1976,58.2
+Oregon,1977,58.2
+Oregon,1978,57.4
+Oregon,1979,58.0
+Oregon,1980,58.0
+Oregon,1981,58.9
+Oregon,1982,56.0
+Oregon,1983,56.9
+Oregon,1984,56.1
+Oregon,1985,56.2
+Oregon,1986,59.2
+Oregon,1987,60.4
+Oregon,1988,59.9
+Oregon,1989,58.0
+Oregon,1990,59.0
+Oregon,1991,59.0
+Oregon,1992,61.2
+Oregon,1993,56.4
+Oregon,1994,59.6
+Oregon,1995,59.0
+Oregon,1996,59.0
+Oregon,1997,58.9
+Oregon,1998,58.4
+Oregon,1999,58.8
+Oregon,2000,58.8
+Oregon,2001,59.5
+Oregon,2002,59.8
+Oregon,2003,60.5
+Oregon,2004,59.8
+Oregon,2005,59.3
+Oregon,2006,59.7
+Oregon,2007,59.8
+Oregon,2008,58.7
+Oregon,2009,59.0
+Oregon,2010,58.0
+Oregon,2011,57.6
+Oregon,2012,59.7
+Oregon,2013,59.5
+Oregon,2014,61.1
+Oregon,2015,62.2
+Oregon,2016,60.1
+Oregon,2017,59.4
+Pennsylvania,1950,57.6
+Pennsylvania,1951,59.0
+Pennsylvania,1952,59.7
+Pennsylvania,1953,61.1
+Pennsylvania,1954,59.5
+Pennsylvania,1955,59.6
+Pennsylvania,1956,58.0
+Pennsylvania,1957,59.4
+Pennsylvania,1958,56.3
+Pennsylvania,1959,60.0
+Pennsylvania,1960,57.6
+Pennsylvania,1961,58.2
+Pennsylvania,1962,57.7
+Pennsylvania,1963,58.0
+Pennsylvania,1964,59.5
+Pennsylvania,1965,58.2
+Pennsylvania,1966,58.0
+Pennsylvania,1967,57.4
+Pennsylvania,1968,58.2
+Pennsylvania,1969,57.8
+Pennsylvania,1970,58.0
+Pennsylvania,1971,58.4
+Pennsylvania,1972,57.0
+Pennsylvania,1973,59.6
+Pennsylvania,1974,58.5
+Pennsylvania,1975,58.8
+Pennsylvania,1976,57.7
+Pennsylvania,1977,58.3
+Pennsylvania,1978,56.7
+Pennsylvania,1979,57.4
+Pennsylvania,1980,57.8
+Pennsylvania,1981,57.7
+Pennsylvania,1982,58.4
+Pennsylvania,1983,58.9
+Pennsylvania,1984,58.4
+Pennsylvania,1985,58.9
+Pennsylvania,1986,58.8
+Pennsylvania,1987,59.6
+Pennsylvania,1988,59.0
+Pennsylvania,1989,57.5
+Pennsylvania,1990,61.0
+Pennsylvania,1991,61.6
+Pennsylvania,1992,57.3
+Pennsylvania,1993,58.5
+Pennsylvania,1994,58.7
+Pennsylvania,1995,58.8
+Pennsylvania,1996,57.4
+Pennsylvania,1997,58.2
+Pennsylvania,1998,61.9
+Pennsylvania,1999,61.0
+Pennsylvania,2000,58.8
+Pennsylvania,2001,60.6
+Pennsylvania,2002,60.7
+Pennsylvania,2003,57.7
+Pennsylvania,2004,58.9
+Pennsylvania,2005,60.0
+Pennsylvania,2006,60.9
+Pennsylvania,2007,60.1
+Pennsylvania,2008,59.3
+Pennsylvania,2009,58.4
+Pennsylvania,2010,60.4
+Pennsylvania,2011,60.3
+Pennsylvania,2012,62.2
+Pennsylvania,2013,58.8
+Pennsylvania,2014,57.7
+Pennsylvania,2015,60.1
+Pennsylvania,2016,61.7
+Pennsylvania,2017,60.6
+Rhode Island,1950,58.0
+Rhode Island,1951,59.4
+Rhode Island,1952,59.5
+Rhode Island,1953,60.7
+Rhode Island,1954,58.6
+Rhode Island,1955,58.1
+Rhode Island,1956,57.4
+Rhode Island,1957,60.0
+Rhode Island,1958,56.1
+Rhode Island,1959,59.0
+Rhode Island,1960,57.9
+Rhode Island,1961,57.7
+Rhode Island,1962,56.6
+Rhode Island,1963,57.9
+Rhode Island,1964,58.2
+Rhode Island,1965,57.7
+Rhode Island,1966,58.1
+Rhode Island,1967,56.8
+Rhode Island,1968,57.9
+Rhode Island,1969,57.8
+Rhode Island,1970,57.6
+Rhode Island,1971,58.4
+Rhode Island,1972,57.0
+Rhode Island,1973,60.1
+Rhode Island,1974,58.5
+Rhode Island,1975,58.9
+Rhode Island,1976,58.1
+Rhode Island,1977,58.4
+Rhode Island,1978,57.1
+Rhode Island,1979,58.6
+Rhode Island,1980,58.2
+Rhode Island,1981,58.4
+Rhode Island,1982,58.2
+Rhode Island,1983,59.6
+Rhode Island,1984,59.0
+Rhode Island,1985,58.7
+Rhode Island,1986,58.4
+Rhode Island,1987,58.7
+Rhode Island,1988,58.7
+Rhode Island,1989,58.0
+Rhode Island,1990,60.9
+Rhode Island,1991,61.3
+Rhode Island,1992,57.7
+Rhode Island,1993,58.9
+Rhode Island,1994,59.2
+Rhode Island,1995,59.3
+Rhode Island,1996,58.0
+Rhode Island,1997,58.8
+Rhode Island,1998,61.2
+Rhode Island,1999,61.7
+Rhode Island,2000,58.7
+Rhode Island,2001,60.7
+Rhode Island,2002,60.7
+Rhode Island,2003,58.0
+Rhode Island,2004,58.4
+Rhode Island,2005,59.4
+Rhode Island,2006,60.9
+Rhode Island,2007,59.8
+Rhode Island,2008,60.2
+Rhode Island,2009,58.7
+Rhode Island,2010,61.2
+Rhode Island,2011,60.9
+Rhode Island,2012,62.1
+Rhode Island,2013,59.9
+Rhode Island,2014,59.2
+Rhode Island,2015,60.2
+Rhode Island,2016,61.9
+Rhode Island,2017,60.6
+South Carolina,1950,74.2
+South Carolina,1951,74.6
+South Carolina,1952,75.0
+South Carolina,1953,75.5
+South Carolina,1954,75.9
+South Carolina,1955,74.3
+South Carolina,1956,75.0
+South Carolina,1957,74.1
+South Carolina,1958,72.0
+South Carolina,1959,73.7
+South Carolina,1960,72.6
+South Carolina,1961,73.4
+South Carolina,1962,73.5
+South Carolina,1963,72.8
+South Carolina,1964,73.0
+South Carolina,1965,73.7
+South Carolina,1966,72.1
+South Carolina,1967,73.2
+South Carolina,1968,72.8
+South Carolina,1969,72.1
+South Carolina,1970,74.2
+South Carolina,1971,73.6
+South Carolina,1972,73.4
+South Carolina,1973,74.0
+South Carolina,1974,74.8
+South Carolina,1975,74.4
+South Carolina,1976,73.0
+South Carolina,1977,74.0
+South Carolina,1978,73.2
+South Carolina,1979,72.9
+South Carolina,1980,73.6
+South Carolina,1981,73.6
+South Carolina,1982,73.7
+South Carolina,1983,72.9
+South Carolina,1984,74.3
+South Carolina,1985,74.5
+South Carolina,1986,75.7
+South Carolina,1987,74.0
+South Carolina,1988,73.3
+South Carolina,1989,73.3
+South Carolina,1990,77.0
+South Carolina,1991,74.7
+South Carolina,1992,72.9
+South Carolina,1993,74.1
+South Carolina,1994,74.0
+South Carolina,1995,73.7
+South Carolina,1996,73.3
+South Carolina,1997,73.4
+South Carolina,1998,75.9
+South Carolina,1999,75.3
+South Carolina,2000,74.2
+South Carolina,2001,75.3
+South Carolina,2002,75.1
+South Carolina,2003,73.2
+South Carolina,2004,74.2
+South Carolina,2005,74.2
+South Carolina,2006,75.5
+South Carolina,2007,76.4
+South Carolina,2008,74.7
+South Carolina,2009,73.6
+South Carolina,2010,74.3
+South Carolina,2011,76.1
+South Carolina,2012,75.8
+South Carolina,2013,73.1
+South Carolina,2014,73.6
+South Carolina,2015,75.3
+South Carolina,2016,76.1
+South Carolina,2017,76.4
+South Dakota,1950,53.4
+South Dakota,1951,52.8
+South Dakota,1952,57.6
+South Dakota,1953,58.2
+South Dakota,1954,58.6
+South Dakota,1955,57.5
+South Dakota,1956,57.4
+South Dakota,1957,55.7
+South Dakota,1958,58.0
+South Dakota,1959,57.0
+South Dakota,1960,56.2
+South Dakota,1961,58.0
+South Dakota,1962,56.4
+South Dakota,1963,59.2
+South Dakota,1964,57.9
+South Dakota,1965,55.5
+South Dakota,1966,55.9
+South Dakota,1967,56.8
+South Dakota,1968,56.6
+South Dakota,1969,55.6
+South Dakota,1970,56.1
+South Dakota,1971,55.9
+South Dakota,1972,54.3
+South Dakota,1973,58.0
+South Dakota,1974,59.3
+South Dakota,1975,56.0
+South Dakota,1976,59.7
+South Dakota,1977,57.5
+South Dakota,1978,54.1
+South Dakota,1979,54.9
+South Dakota,1980,59.3
+South Dakota,1981,60.3
+South Dakota,1982,54.7
+South Dakota,1983,56.4
+South Dakota,1984,56.9
+South Dakota,1985,55.3
+South Dakota,1986,57.1
+South Dakota,1987,60.9
+South Dakota,1988,60.0
+South Dakota,1989,56.9
+South Dakota,1990,59.8
+South Dakota,1991,58.7
+South Dakota,1992,57.4
+South Dakota,1993,53.4
+South Dakota,1994,56.7
+South Dakota,1995,55.8
+South Dakota,1996,53.0
+South Dakota,1997,56.2
+South Dakota,1998,58.6
+South Dakota,1999,60.1
+South Dakota,2000,58.4
+South Dakota,2001,58.4
+South Dakota,2002,58.6
+South Dakota,2003,58.4
+South Dakota,2004,58.6
+South Dakota,2005,59.6
+South Dakota,2006,60.6
+South Dakota,2007,58.8
+South Dakota,2008,56.0
+South Dakota,2009,55.0
+South Dakota,2010,56.3
+South Dakota,2011,56.3
+South Dakota,2012,62.7
+South Dakota,2013,55.7
+South Dakota,2014,55.7
+South Dakota,2015,59.8
+South Dakota,2016,60.5
+South Dakota,2017,59.1
+Tennessee,1950,68.0
+Tennessee,1951,69.3
+Tennessee,1952,70.6
+Tennessee,1953,71.6
+Tennessee,1954,71.3
+Tennessee,1955,69.8
+Tennessee,1956,70.4
+Tennessee,1957,69.4
+Tennessee,1958,67.0
+Tennessee,1959,69.3
+Tennessee,1960,67.2
+Tennessee,1961,68.1
+Tennessee,1962,68.9
+Tennessee,1963,68.5
+Tennessee,1964,69.5
+Tennessee,1965,69.6
+Tennessee,1966,67.6
+Tennessee,1967,68.3
+Tennessee,1968,67.8
+Tennessee,1969,67.6
+Tennessee,1970,68.5
+Tennessee,1971,69.1
+Tennessee,1972,68.3
+Tennessee,1973,69.2
+Tennessee,1974,68.8
+Tennessee,1975,68.8
+Tennessee,1976,67.6
+Tennessee,1977,68.8
+Tennessee,1978,67.7
+Tennessee,1979,66.5
+Tennessee,1980,68.8
+Tennessee,1981,68.2
+Tennessee,1982,68.7
+Tennessee,1983,67.8
+Tennessee,1984,68.9
+Tennessee,1985,68.1
+Tennessee,1986,70.1
+Tennessee,1987,70.0
+Tennessee,1988,69.0
+Tennessee,1989,67.3
+Tennessee,1990,71.0
+Tennessee,1991,69.8
+Tennessee,1992,67.6
+Tennessee,1993,68.1
+Tennessee,1994,68.8
+Tennessee,1995,68.7
+Tennessee,1996,67.5
+Tennessee,1997,67.6
+Tennessee,1998,70.8
+Tennessee,1999,71.4
+Tennessee,2000,69.5
+Tennessee,2001,69.6
+Tennessee,2002,69.6
+Tennessee,2003,68.1
+Tennessee,2004,69.0
+Tennessee,2005,69.9
+Tennessee,2006,70.3
+Tennessee,2007,71.9
+Tennessee,2008,69.0
+Tennessee,2009,68.1
+Tennessee,2010,69.2
+Tennessee,2011,69.9
+Tennessee,2012,71.9
+Tennessee,2013,67.4
+Tennessee,2014,67.5
+Tennessee,2015,69.7
+Tennessee,2016,71.7
+Tennessee,2017,70.8
+Texas,1950,78.4
+Texas,1951,78.5
+Texas,1952,78.1
+Texas,1953,78.8
+Texas,1954,79.8
+Texas,1955,78.0
+Texas,1956,79.5
+Texas,1957,76.2
+Texas,1958,74.9
+Texas,1959,76.1
+Texas,1960,75.7
+Texas,1961,75.8
+Texas,1962,77.8
+Texas,1963,78.2
+Texas,1964,77.3
+Texas,1965,77.1
+Texas,1966,75.7
+Texas,1967,77.5
+Texas,1968,74.9
+Texas,1969,76.6
+Texas,1970,76.2
+Texas,1971,77.4
+Texas,1972,76.9
+Texas,1973,75.8
+Texas,1974,76.9
+Texas,1975,76.4
+Texas,1976,75.4
+Texas,1977,77.9
+Texas,1978,75.7
+Texas,1979,75.1
+Texas,1980,77.6
+Texas,1981,76.8
+Texas,1982,76.7
+Texas,1983,75.5
+Texas,1984,77.1
+Texas,1985,76.2
+Texas,1986,77.2
+Texas,1987,76.0
+Texas,1988,77.3
+Texas,1989,76.9
+Texas,1990,77.8
+Texas,1991,76.4
+Texas,1992,76.2
+Texas,1993,76.2
+Texas,1994,77.8
+Texas,1995,77.6
+Texas,1996,78.4
+Texas,1997,75.6
+Texas,1998,79.3
+Texas,1999,79.6
+Texas,2000,78.8
+Texas,2001,77.5
+Texas,2002,76.9
+Texas,2003,77.7
+Texas,2004,76.5
+Texas,2005,78.5
+Texas,2006,80.1
+Texas,2007,76.5
+Texas,2008,78.7
+Texas,2009,78.5
+Texas,2010,77.5
+Texas,2011,80.9
+Texas,2012,80.6
+Texas,2013,77.6
+Texas,2014,77.2
+Texas,2015,77.4
+Texas,2016,79.1
+Texas,2017,79.7
+Utah,1950,61.4
+Utah,1951,59.5
+Utah,1952,59.5
+Utah,1953,61.5
+Utah,1954,62.6
+Utah,1955,59.1
+Utah,1956,61.6
+Utah,1957,59.1
+Utah,1958,62.4
+Utah,1959,61.6
+Utah,1960,61.1
+Utah,1961,60.4
+Utah,1962,61.1
+Utah,1963,61.1
+Utah,1964,58.9
+Utah,1965,59.1
+Utah,1966,61.2
+Utah,1967,60.0
+Utah,1968,59.0
+Utah,1969,60.4
+Utah,1970,59.9
+Utah,1971,59.0
+Utah,1972,60.6
+Utah,1973,58.5
+Utah,1974,60.8
+Utah,1975,58.3
+Utah,1976,61.1
+Utah,1977,62.2
+Utah,1978,60.1
+Utah,1979,59.5
+Utah,1980,61.0
+Utah,1981,62.5
+Utah,1982,58.2
+Utah,1983,59.1
+Utah,1984,57.9
+Utah,1985,59.4
+Utah,1986,61.6
+Utah,1987,60.9
+Utah,1988,61.5
+Utah,1989,61.9
+Utah,1990,61.5
+Utah,1991,59.9
+Utah,1992,61.5
+Utah,1993,59.2
+Utah,1994,62.4
+Utah,1995,61.9
+Utah,1996,62.6
+Utah,1997,60.6
+Utah,1998,60.5
+Utah,1999,62.5
+Utah,2000,62.9
+Utah,2001,63.0
+Utah,2002,62.2
+Utah,2003,63.5
+Utah,2004,61.1
+Utah,2005,61.9
+Utah,2006,62.2
+Utah,2007,63.3
+Utah,2008,61.4
+Utah,2009,61.5
+Utah,2010,60.8
+Utah,2011,60.4
+Utah,2012,64.3
+Utah,2013,60.5
+Utah,2014,63.2
+Utah,2015,63.3
+Utah,2016,62.9
+Utah,2017,63.7
+Vermont,1950,52.6
+Vermont,1951,52.6
+Vermont,1952,53.4
+Vermont,1953,55.6
+Vermont,1954,51.8
+Vermont,1955,52.6
+Vermont,1956,51.4
+Vermont,1957,53.7
+Vermont,1958,50.7
+Vermont,1959,53.0
+Vermont,1960,52.5
+Vermont,1961,52.4
+Vermont,1962,51.3
+Vermont,1963,51.8
+Vermont,1964,52.9
+Vermont,1965,51.4
+Vermont,1966,52.3
+Vermont,1967,51.4
+Vermont,1968,51.6
+Vermont,1969,51.8
+Vermont,1970,51.9
+Vermont,1971,52.0
+Vermont,1972,50.5
+Vermont,1973,53.7
+Vermont,1974,51.8
+Vermont,1975,53.1
+Vermont,1976,51.4
+Vermont,1977,52.1
+Vermont,1978,51.2
+Vermont,1979,52.6
+Vermont,1980,51.3
+Vermont,1981,52.6
+Vermont,1982,52.6
+Vermont,1983,53.0
+Vermont,1984,53.3
+Vermont,1985,52.0
+Vermont,1986,52.4
+Vermont,1987,52.9
+Vermont,1988,52.6
+Vermont,1989,51.6
+Vermont,1990,54.5
+Vermont,1991,54.4
+Vermont,1992,51.0
+Vermont,1993,52.0
+Vermont,1994,52.1
+Vermont,1995,52.8
+Vermont,1996,51.8
+Vermont,1997,51.6
+Vermont,1998,55.3
+Vermont,1999,55.2
+Vermont,2000,51.9
+Vermont,2001,54.7
+Vermont,2002,53.9
+Vermont,2003,52.0
+Vermont,2004,52.4
+Vermont,2005,53.9
+Vermont,2006,54.7
+Vermont,2007,52.7
+Vermont,2008,53.4
+Vermont,2009,52.5
+Vermont,2010,54.6
+Vermont,2011,54.3
+Vermont,2012,56.2
+Vermont,2013,53.3
+Vermont,2014,52.2
+Vermont,2015,53.7
+Vermont,2016,55.3
+Vermont,2017,54.0
+Virginia,1950,65.8
+Virginia,1951,66.6
+Virginia,1952,67.2
+Virginia,1953,68.7
+Virginia,1954,67.6
+Virginia,1955,66.4
+Virginia,1956,66.3
+Virginia,1957,66.5
+Virginia,1958,63.7
+Virginia,1959,67.2
+Virginia,1960,64.7
+Virginia,1961,65.2
+Virginia,1962,64.4
+Virginia,1963,65.4
+Virginia,1964,66.2
+Virginia,1965,66.1
+Virginia,1966,64.7
+Virginia,1967,64.9
+Virginia,1968,65.4
+Virginia,1969,64.2
+Virginia,1970,66.0
+Virginia,1971,65.7
+Virginia,1972,64.8
+Virginia,1973,66.4
+Virginia,1974,66.4
+Virginia,1975,66.2
+Virginia,1976,65.7
+Virginia,1977,66.0
+Virginia,1978,64.6
+Virginia,1979,64.5
+Virginia,1980,65.7
+Virginia,1981,65.0
+Virginia,1982,65.6
+Virginia,1983,65.4
+Virginia,1984,65.9
+Virginia,1985,66.5
+Virginia,1986,66.6
+Virginia,1987,66.5
+Virginia,1988,65.8
+Virginia,1989,65.0
+Virginia,1990,68.9
+Virginia,1991,68.2
+Virginia,1992,64.8
+Virginia,1993,66.0
+Virginia,1994,66.7
+Virginia,1995,65.9
+Virginia,1996,64.6
+Virginia,1997,65.7
+Virginia,1998,68.5
+Virginia,1999,68.0
+Virginia,2000,66.1
+Virginia,2001,67.7
+Virginia,2002,67.8
+Virginia,2003,65.1
+Virginia,2004,66.3
+Virginia,2005,66.8
+Virginia,2006,67.9
+Virginia,2007,68.3
+Virginia,2008,66.9
+Virginia,2009,65.6
+Virginia,2010,67.1
+Virginia,2011,67.9
+Virginia,2012,68.7
+Virginia,2013,65.4
+Virginia,2014,65.2
+Virginia,2015,67.1
+Virginia,2016,67.8
+Virginia,2017,68.1
+Washington,1950,54.0
+Washington,1951,55.8
+Washington,1952,56.8
+Washington,1953,57.2
+Washington,1954,54.6
+Washington,1955,52.7
+Washington,1956,55.1
+Washington,1957,55.3
+Washington,1958,59.0
+Washington,1959,55.0
+Washington,1960,55.6
+Washington,1961,56.9
+Washington,1962,55.8
+Washington,1963,56.2
+Washington,1964,54.3
+Washington,1965,56.7
+Washington,1966,56.8
+Washington,1967,58.1
+Washington,1968,56.0
+Washington,1969,55.3
+Washington,1970,56.0
+Washington,1971,55.1
+Washington,1972,55.1
+Washington,1973,56.4
+Washington,1974,56.7
+Washington,1975,54.7
+Washington,1976,55.8
+Washington,1977,56.1
+Washington,1978,55.3
+Washington,1979,56.5
+Washington,1980,55.3
+Washington,1981,56.9
+Washington,1982,55.2
+Washington,1983,56.0
+Washington,1984,54.7
+Washington,1985,54.0
+Washington,1986,56.9
+Washington,1987,58.6
+Washington,1988,57.2
+Washington,1989,56.2
+Washington,1990,57.0
+Washington,1991,56.8
+Washington,1992,58.6
+Washington,1993,54.9
+Washington,1994,57.8
+Washington,1995,57.1
+Washington,1996,55.2
+Washington,1997,56.4
+Washington,1998,58.1
+Washington,1999,56.6
+Washington,2000,55.8
+Washington,2001,56.6
+Washington,2002,56.9
+Washington,2003,58.1
+Washington,2004,58.0
+Washington,2005,57.2
+Washington,2006,57.6
+Washington,2007,56.5
+Washington,2008,55.6
+Washington,2009,56.3
+Washington,2010,56.2
+Washington,2011,55.0
+Washington,2012,56.7
+Washington,2013,56.8
+Washington,2014,58.0
+Washington,2015,60.0
+Washington,2016,58.0
+Washington,2017,56.4
+West Virginia,1950,62.1
+West Virginia,1951,63.3
+West Virginia,1952,64.1
+West Virginia,1953,65.6
+West Virginia,1954,63.7
+West Virginia,1955,63.5
+West Virginia,1956,62.7
+West Virginia,1957,63.6
+West Virginia,1958,59.9
+West Virginia,1959,64.2
+West Virginia,1960,61.0
+West Virginia,1961,61.6
+West Virginia,1962,61.5
+West Virginia,1963,61.4
+West Virginia,1964,63.5
+West Virginia,1965,63.1
+West Virginia,1966,61.4
+West Virginia,1967,61.7
+West Virginia,1968,61.4
+West Virginia,1969,60.9
+West Virginia,1970,62.4
+West Virginia,1971,62.4
+West Virginia,1972,61.2
+West Virginia,1973,63.3
+West Virginia,1974,62.7
+West Virginia,1975,62.9
+West Virginia,1976,61.6
+West Virginia,1977,62.0
+West Virginia,1978,60.7
+West Virginia,1979,60.7
+West Virginia,1980,61.4
+West Virginia,1981,61.2
+West Virginia,1982,62.9
+West Virginia,1983,62.2
+West Virginia,1984,62.4
+West Virginia,1985,62.5
+West Virginia,1986,63.1
+West Virginia,1987,63.6
+West Virginia,1988,63.0
+West Virginia,1989,61.5
+West Virginia,1990,65.3
+West Virginia,1991,65.0
+West Virginia,1992,61.6
+West Virginia,1993,62.6
+West Virginia,1994,63.2
+West Virginia,1995,62.5
+West Virginia,1996,61.2
+West Virginia,1997,61.8
+West Virginia,1998,65.0
+West Virginia,1999,65.2
+West Virginia,2000,62.9
+West Virginia,2001,64.2
+West Virginia,2002,64.2
+West Virginia,2003,61.7
+West Virginia,2004,63.2
+West Virginia,2005,63.6
+West Virginia,2006,64.0
+West Virginia,2007,64.8
+West Virginia,2008,63.0
+West Virginia,2009,62.2
+West Virginia,2010,62.8
+West Virginia,2011,64.1
+West Virginia,2012,65.7
+West Virginia,2013,62.0
+West Virginia,2014,61.7
+West Virginia,2015,64.1
+West Virginia,2016,65.3
+West Virginia,2017,64.9
+Wisconsin,1950,50.2
+Wisconsin,1951,49.8
+Wisconsin,1952,53.9
+Wisconsin,1953,54.9
+Wisconsin,1954,53.2
+Wisconsin,1955,53.9
+Wisconsin,1956,53.0
+Wisconsin,1957,52.6
+Wisconsin,1958,52.9
+Wisconsin,1959,52.2
+Wisconsin,1960,52.4
+Wisconsin,1961,53.4
+Wisconsin,1962,51.7
+Wisconsin,1963,53.3
+Wisconsin,1964,54.3
+Wisconsin,1965,51.4
+Wisconsin,1966,52.2
+Wisconsin,1967,51.5
+Wisconsin,1968,53.3
+Wisconsin,1969,52.1
+Wisconsin,1970,52.6
+Wisconsin,1971,52.6
+Wisconsin,1972,50.1
+Wisconsin,1973,53.9
+Wisconsin,1974,52.5
+Wisconsin,1975,53.1
+Wisconsin,1976,53.4
+Wisconsin,1977,53.5
+Wisconsin,1978,51.8
+Wisconsin,1979,50.6
+Wisconsin,1980,52.6
+Wisconsin,1981,53.9
+Wisconsin,1982,51.7
+Wisconsin,1983,52.8
+Wisconsin,1984,53.4
+Wisconsin,1985,51.9
+Wisconsin,1986,53.4
+Wisconsin,1987,56.7
+Wisconsin,1988,54.9
+Wisconsin,1989,52.2
+Wisconsin,1990,55.3
+Wisconsin,1991,54.0
+Wisconsin,1992,52.3
+Wisconsin,1993,51.4
+Wisconsin,1994,53.4
+Wisconsin,1995,52.7
+Wisconsin,1996,50.7
+Wisconsin,1997,52.5
+Wisconsin,1998,57.4
+Wisconsin,1999,56.0
+Wisconsin,2000,54.2
+Wisconsin,2001,55.6
+Wisconsin,2002,54.5
+Wisconsin,2003,54.0
+Wisconsin,2004,53.8
+Wisconsin,2005,55.6
+Wisconsin,2006,56.1
+Wisconsin,2007,55.1
+Wisconsin,2008,52.4
+Wisconsin,2009,52.8
+Wisconsin,2010,55.8
+Wisconsin,2011,54.0
+Wisconsin,2012,58.2
+Wisconsin,2013,51.9
+Wisconsin,2014,50.2
+Wisconsin,2015,54.9
+Wisconsin,2016,55.8
+Wisconsin,2017,54.5
+Wyoming,1950,52.7
+Wyoming,1951,51.2
+Wyoming,1952,54.2
+Wyoming,1953,55.4
+Wyoming,1954,56.4
+Wyoming,1955,52.6
+Wyoming,1956,54.5
+Wyoming,1957,52.4
+Wyoming,1958,54.9
+Wyoming,1959,53.4
+Wyoming,1960,54.0
+Wyoming,1961,53.4
+Wyoming,1962,54.1
+Wyoming,1963,55.5
+Wyoming,1964,52.4
+Wyoming,1965,52.5
+Wyoming,1966,54.4
+Wyoming,1967,53.1
+Wyoming,1968,52.4
+Wyoming,1969,54.0
+Wyoming,1970,52.8
+Wyoming,1971,52.2
+Wyoming,1972,52.5
+Wyoming,1973,52.1
+Wyoming,1974,54.5
+Wyoming,1975,52.0
+Wyoming,1976,54.6
+Wyoming,1977,55.2
+Wyoming,1978,52.2
+Wyoming,1979,53.0
+Wyoming,1980,54.7
+Wyoming,1981,56.7
+Wyoming,1982,52.0
+Wyoming,1983,52.9
+Wyoming,1984,52.3
+Wyoming,1985,52.4
+Wyoming,1986,54.8
+Wyoming,1987,55.7
+Wyoming,1988,56.4
+Wyoming,1989,54.2
+Wyoming,1990,54.9
+Wyoming,1991,54.4
+Wyoming,1992,55.6
+Wyoming,1993,51.2
+Wyoming,1994,56.1
+Wyoming,1995,54.0
+Wyoming,1996,54.0
+Wyoming,1997,53.8
+Wyoming,1998,54.8
+Wyoming,1999,56.4
+Wyoming,2000,55.8
+Wyoming,2001,56.4
+Wyoming,2002,54.6
+Wyoming,2003,55.9
+Wyoming,2004,55.0
+Wyoming,2005,56.0
+Wyoming,2006,56.4
+Wyoming,2007,56.5
+Wyoming,2008,53.7
+Wyoming,2009,53.8
+Wyoming,2010,54.9
+Wyoming,2011,53.8
+Wyoming,2012,58.5
+Wyoming,2013,54.5
+Wyoming,2014,54.9
+Wyoming,2015,57.0
+Wyoming,2016,56.9
+Wyoming,2017,55.9
+Alaska,1950,34.1
+Alaska,1951,32.9
+Alaska,1952,32.7
+Alaska,1953,33.8
+Alaska,1954,32.5
+Alaska,1955,30.7
+Alaska,1956,29.3
+Alaska,1957,35.7
+Alaska,1958,34.4
+Alaska,1959,32.4
+Alaska,1960,34.1
+Alaska,1961,31.0
+Alaska,1962,34.1
+Alaska,1963,33.8
+Alaska,1964,30.7
+Alaska,1965,31.8
+Alaska,1966,31.2
+Alaska,1967,34.5
+Alaska,1968,33.2
+Alaska,1969,34.6
+Alaska,1970,32.6
+Alaska,1971,29.9
+Alaska,1972,31.2
+Alaska,1973,32.1
+Alaska,1974,31.7
+Alaska,1975,30.8
+Alaska,1976,33.7
+Alaska,1977,34.7
+Alaska,1978,36.7
+Alaska,1979,35.2
+Alaska,1980,33.8
+Alaska,1981,36.5
+Alaska,1982,32.5
+Alaska,1983,34.1
+Alaska,1984,32.9
+Alaska,1985,33.8
+Alaska,1986,34.6
+Alaska,1987,35.1
+Alaska,1988,34.6
+Alaska,1989,34.3
+Alaska,1990,33.3
+Alaska,1991,34.6
+Alaska,1992,32.6
+Alaska,1993,37.4
+Alaska,1994,33.7
+Alaska,1995,35.1
+Alaska,1996,33.1
+Alaska,1997,36.0
+Alaska,1998,35.6
+Alaska,1999,31.8
+Alaska,2000,35.6
+Alaska,2001,34.8
+Alaska,2002,37.6
+Alaska,2003,36.7
+Alaska,2004,37.1
+Alaska,2005,36.8
+Alaska,2006,33.8
+Alaska,2007,35.7
+Alaska,2008,32.7
+Alaska,2009,34.6
+Alaska,2010,34.9
+Alaska,2011,34.6
+Alaska,2012,31.8
+Alaska,2013,35.5
+Alaska,2014,37.8
+Alaska,2015,37.4
+Alaska,2016,39.3
+Alaska,2017,36.8
